@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Keyword Filter Map</title>
+  <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+<body>
+    
+<div id="language-container">
+ <div class="language-toggle" onclick="toggleLanguage(this)">EN</div>
+<div class="language-toggle" onclick="toggleLanguage(this)">中文</div>
+<div class="language-toggle" onclick="toggleLanguage(this)">Français</div>
+<div class="language-toggle" onclick="toggleLanguage(this)">Español</div>
+<div class="language-toggle" onclick="toggleLanguage(this)">Русский</div>
+<div class="language-toggle" onclick="toggleLanguage(this)">Português</div>
+<div class="language-toggle" onclick="toggleLanguage(this)">العربية</div>
+</div>
+
+<div id="checkbox-panel">
+  <div id="header">
+    <a href="1021-2.html"><i class="fas fa-arrow-left back-icon" style="color: black;"></i></a>
+    <h3>Select Keywords</h3>
+  </div>
+  <div class="checkbox-container">
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="visual-art" value="visual art" onclick="filterCities()">
+        <label for="visual-art"><i class="fas fa-paint-brush"></i>Visual Art</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="fine-art" value="fine art" onclick="filterCities()">
+        <label for="fine-art"><i class="fas fa-palette"></i>Fine Art</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="illustrat" value="illustrat" onclick="filterCities()">
+        <label for="illustrat"><i class="fas fa-pen-nib"></i>Illustrat</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="paint" value="paint" onclick="filterCities()">
+        <label for="paint"><i class="fas fa-brush"></i>Paint</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="sculptur" value="sculptur" onclick="filterCities()">
+        <label for="sculptur"><i class="fas fa-hammer"></i>Sculptur</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="print" value="print" onclick="filterCities()">
+        <label for="print"><i class="fas fa-print"></i>Print</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="decorativ" value="decorativ" onclick="filterCities()">
+        <label for="decorativ"><i class="fas fa-feather"></i>Decorativ</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="handmade" value="handmade" onclick="filterCities()">
+        <label for="handmade"><i class="fas fa-hand-paper"></i>Handmade</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="craft" value="craft" onclick="filterCities()">
+        <label for="craft"><i class="fas fa-hammer"></i>Craft</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="contemporary" value="contemporary" onclick="filterCities()">
+        <label for="contemporary"><i class="fas fa-clock"></i>Contemporary</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="modern" value="modern" onclick="filterCities()">
+        <label for="modern"><i class="fas fa-shapes"></i>Modern</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="conceptual" value="conceptual" onclick="filterCities()">
+        <label for="conceptual"><i class="fas fa-lightbulb"></i>Conceptual</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="new-media" value="new media" onclick="filterCities()">
+        <label for="new-media"><i class="fas fa-photo-video"></i>New Media</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="electronic" value="electronic" onclick="filterCities()">
+        <label for="electronic"><i class="fas fa-plug"></i>Electronic</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="digital" value="digital" onclick="filterCities()">
+        <label for="digital"><i class="fas fa-digital-tachograph"></i>Digital</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="20th-century" value="20th century" onclick="filterCities()">
+        <label for="20th-century"><i class="fas fa-calendar-alt"></i>20th Century</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="21st-century" value="21st century" onclick="filterCities()">
+        <label for="21st-century"><i class="fas fa-calendar-alt"></i>21st Century</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="design" value="design" onclick="filterCities()">
+        <label for="design"><i class="fas fa-drafting-compass"></i>Design</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="architectur" value="architectur" onclick="filterCities()">
+        <label for="architectur"><i class="fas fa-building"></i>Architectur</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="folk" value="folk" onclick="filterCities()">
+        <label for="folk"><i class="fas fa-users"></i>Folk</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="ethnic" value="ethnic" onclick="filterCities()">
+        <label for="ethnic"><i class="fas fa-globe"></i>Ethnic</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="mural" value="mural" onclick="filterCities()">
+        <label for="mural"><i class="fas fa-brush"></i>Mural</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="portrait" value="portrait" onclick="filterCities()">
+        <label for="portrait"><i class="fas fa-user"></i>Portrait</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="photograph" value="photograph" onclick="filterCities()">
+        <label for="photograph"><i class="fas fa-camera"></i>Photograph</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="clay" value="clay" onclick="filterCities()">
+        <label for="clay"><i class="fas fa-mountain"></i>Clay</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="glass" value="glass" onclick="filterCities()">
+        <label for="glass"><i class="fas fa-glass-whiskey"></i>Glass</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="wood" value="wood" onclick="filterCities()">
+        <label for="wood"><i class="fas fa-tree"></i>Wood</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="garden" value="garden" onclick="filterCities()">
+        <label for="garden"><i class="fas fa-seedling"></i>Garden</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="street-art" value="street art" onclick="filterCities()">
+        <label for="street-art"><i class="fas fa-road"></i>Street Art</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="graffiti" value="graffiti" onclick="filterCities()">
+        <label for="graffiti"><i class="fas fa-spray-can"></i>Graffiti</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="festival" value="festival" onclick="filterCities()">
+        <label for="festival"><i class="fas fa-music"></i>Festival</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="fair" value="fair" onclick="filterCities()">
+        <label for="fair"><i class="fas fa-flag"></i>Fair</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="immers" value="immers" onclick="filterCities()">
+        <label for="immers"><i class="fas fa-vr-cardboard"></i>Immers</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="interactiv" value="interactiv" onclick="filterCities()">
+        <label for="interactiv"><i class="fas fa-hand-pointer"></i>Interactiv</label>
+      </div>
+    </div>
+    <div class="keyword">
+      <div class="checkbox-wrapper">
+        <input type="checkbox" id="multimedia" value="multimedia" onclick="filterCities()">
+        <label for="multimedia"><i class="fas fa-tv"></i>Multimedia</label>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
