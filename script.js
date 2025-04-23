@@ -21,9 +21,9 @@ document.addEventListener("DOMContentLoaded", function () {
     maxZoom: 19
   }).addTo(map);
 
-  // ★ 새롭게 추가: 지도 우측 상단에 지역 정보 컨트롤 생성
+  // 지도 우측 상단에 지역 정보 컨트롤 생성
   var regionControl = L.control({ position: 'topright' });
-  regionControl.onAdd = function(map) {
+  regionControl.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'region-control');
     div.style.backgroundColor = "white";
     div.style.padding = "10px";
@@ -46,70 +46,86 @@ document.addEventListener("DOMContentLoaded", function () {
       complete: function (results) {
         cities = results.data;
         cities.forEach(function (city) {
-          var coords = [parseFloat(city.latitude), parseFloat(city.longitude)];
-          // 키워드 문자열을 배열로 변환 (콤마 구분)
-          var keywords = city.keywords.split(',').map(keyword => keyword.trim());
+          var lat = parseFloat(city.latitude);
+          var lng = parseFloat(city.longitude);
+  
+          // Skip rows with invalid latitude or longitude
+          if (isNaN(lat) || isNaN(lng)) {
+            console.warn(`Skipping city with invalid coordinates: ${city.name}`);
+            return;
+          }
+  
+          var coords = [lat, lng];
+          var keywords = [
+            city.keyword_1,
+            city.keyword_2,
+            city.keyword_3
+          ].filter(Boolean); // Ensure no empty keywords
           city.keywords = keywords;
-          // region 필드가 없으면 "Unknown"으로 설정
-          city.region = city.region || "Unknown";
-
+  
           var marker = L.marker(coords).bindPopup(
-            '<b>' + city.name + '</b><br>Keywords: ' + keywords.join(", ")
+            `<b>${city.name}</b><br>Keywords: ${keywords.join(", ")}`
           );
           cityMarkers[city.name] = marker;
         });
+      },
+      error: function (error) {
+        console.error("Error loading CSV data:", error);
       }
     });
   }
 
-  // 키워드 필터링 및 지도 업데이트 (선택된 키워드에 대한 인기 region 집계 포함)
-  window.filterCities = function() {
+  // 키워드 필터링 및 지도 업데이트
+  window.filterCities = function () {
     var selectedKeywords = [];
     document.querySelectorAll('#checkbox-panel input:checked').forEach(function (checkbox) {
       selectedKeywords.push(checkbox.value);
     });
-
-    // 모든 마커 제거
+  
+    // Remove all markers
     Object.values(cityMarkers).forEach(function (marker) {
       map.removeLayer(marker);
     });
-
-    // 선택된 키워드를 포함하는 도시만 지도에 추가
+  
+    // Add markers
     if (selectedKeywords.length > 0) {
       cities.forEach(function (city) {
-        if (selectedKeywords.some(function (keyword) {
+        if (city.keywords && selectedKeywords.some(function (keyword) {
           return city.keywords.includes(keyword);
         })) {
           cityMarkers[city.name].addTo(map);
         }
       });
     }
-
-    // ★ 각 선택된 키워드별로 도시의 region 집계
+  
+    // Find region for Keyword Region Info
     var keywordRegions = {};
-    selectedKeywords.forEach(function(keyword) {
-      var counts = {};
-      cities.forEach(function(city) {
-        if (city.keywords.includes(keyword)) {
-          var region = city.region;
-          counts[region] = (counts[region] || 0) + 1;
+    selectedKeywords.forEach(function (keyword) {
+      var maxCount = 0;
+      var topCity = "None";
+  
+      cities.forEach(function (city) {
+        if (city.keyword_1 === keyword && parseFloat(city.count_1) > maxCount) {
+          maxCount = parseFloat(city.count_1);
+          topCity = city.name;
+        }
+        if (city.keyword_2 === keyword && parseFloat(city.count_2) > maxCount) {
+          maxCount = parseFloat(city.count_2);
+          topCity = city.name;
+        }
+        if (city.keyword_3 === keyword && parseFloat(city.count_3) > maxCount) {
+          maxCount = parseFloat(city.count_3);
+          topCity = city.name;
         }
       });
-      var maxCount = 0;
-      var popularRegion = "None";
-      for (var region in counts) {
-        if (counts[region] > maxCount) {
-          maxCount = counts[region];
-          popularRegion = region;
-        }
-      }
-      keywordRegions[keyword] = popularRegion;
+  
+      keywordRegions[keyword] = topCity;
     });
-
-    // ★ 지도 상의 커스텀 컨트롤 영역 업데이트 (예: "paint - Asia")
+  
+    // Update Keyword Region Info
     var infoHtml = "<strong>Keyword Region Info</strong><br>";
     for (var keyword in keywordRegions) {
-      infoHtml += keyword + " - " + keywordRegions[keyword] + "<br>";
+      infoHtml += `${keyword} - ${keywordRegions[keyword]}<br>`;
     }
     document.querySelector('.region-control').innerHTML = infoHtml;
   };

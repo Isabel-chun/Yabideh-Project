@@ -1,781 +1,781 @@
-name,latitude,longitude,keywords
-New York,40.7128,-74.006,"immers, interactiv, modern"
-Los Angeles,34.0549,-118.2426,"print, photograph, draw"
-Chicago,41.8781,-87.6298,"paint, print, contemporary"
-Phoenix,33.4484,-112.074,"print, festival, fine art"
-Houston,29.7604,-95.3698,"contemporary, photograph, paint"
-San Antonio,29.4252,-98.4946,"contemporary, sculptur, interactiv"
-San Diego,32.7157,-117.1611,"paint, sculptur, design"
-Philadelphia,39.9526,-75.1652,"paint, wood, contemporary"
-Dallas,32.7767,-96.797,"festival, wood, fair"
-Austin,30.2672,-97.7431,"sculptur, photograph, garden"
-Indianapolis,39.7684,-86.1581,"design, visual art, fine art"
-Seattle,47.6061,-122.3328,"20th century, immers, photograph"
-Denver,39.7392,-104.9903,"design, paint, festival"
-San Francisco,37.7749,-122.4194,"paint, wood, visual art"
-Oklahoma City,35.4676,-97.5164,"contemporary, digital, immers"
-DC,38.9072,-77.0369,"print, portrait, photograph"
-Nashville,36.1627,-86.7816,"paint, photograph, sculptur"
-El Paso,31.7619,-106.485,"paint, fine art, garden"
-Las Vegas,36.1716,-115.1391,"fine art, paint, sculptur"
-Boston,42.3601,-71.0589,"fine art, paint, print"
-Fort Worth,32.7555,-97.3308,"modern, digital, design"
-Jacksonville,30.3322,-81.6557,"folk, festival, fine art"
-Columbus,32.461,-84.9877,"paint, photograph, craft"
-Charlotte,35.2271,-80.8431,"mural, glass, interactiv"
-San Jose,37.3387,-121.8853,"paint, folk, draw"
-Louisville,38.2527,-85.7585,"fine art, paint, photograph"
-Portland,45.5152,-122.6784,"print, photograph, paint"
-Memphis,35.1495,-90.049,"garden, photograph, festival"
-Detroit,42.3314,-83.0458,"paint, mural, festival"
-Baltimore,39.2904,-76.6122,"sculptur, fine art, contemporary"
-Milwaukee,43.0389,-87.9065,"visual art, contemporary, fine art"
-Albuquerque,35.0844,-106.6504,"photograph, paint, architectur"
-Sacramento,38.5816,-121.4944,"craft, draw, paint"
-Fresno,36.7378,-119.7871,"photograph, paint, portrait"
-Tucson,32.254,-110.9742,"garden, paint, photograph"
-Atlanta,33.7488,-84.3877,"contemporary, immers, paint"
-Kansas City,39.0997,-94.5786,"paint, visual art, contemporary"
-Mesa,33.4152,-111.8315,"draw, contemporary, paint"
-Colorado Springs,38.8339,-104.8214,"wood, fine art, illustrat"
-Omaha,41.2565,-95.9345,"contemporary, garden, visual art"
-New Orleans,29.9511,-90.0715,"print, photograph, festival"
-Cleveland,41.4993,-81.6944,"contemporary, sculptur, design"
-Arlington,32.7357,-97.1081,"fair, visual art, contemporary"
-Aurora,39.7294,-104.8319,"sculptur, illustrat, design"
-Anaheim,33.8366,-117.9143,"photograph, paint, digital"
-Virginia Beach,36.8516,-75.9792,"contemporary, sculptur, visual art"
-Miami,25.7617,-80.1918,"print, festival, visual art"
-Raleigh,35.7796,-78.6382,"craft, festival, fair"
-Oakland,37.8044,-122.2712,"photograph, visual art, fine art"
-Long Beach,33.7701,-118.1937,"paint, contemporary, modern"
-Stockton,37.9577,-121.2908,"paint, visual art, craft"
-Riverside,33.9806,-117.3755,"paint, photograph, print"
-Honolulu,21.3099,-157.8581,"paint, contemporary, wood"
-Lexington,38.0406,-84.5037,"print, photograph, craft"
-Henderson,36.0395,-114.9817,"festival, paint, visual art"
-Paul,44.9537,-93.09,"design, draw, visual art"
-Pittsburgh,40.4406,-79.9959,"photograph, contemporary, wood"
-Newark,40.7357,-74.1724,"festival, print, craft"
-Greensboro,36.0726,-79.792,"modern, contemporary, craft"
-Lincoln,40.8136,-96.7026,"contemporary, sculptur, fine art"
-Minneapolis,44.9778,-93.265,"garden, sculptur, visual art"
-Tulsa,36.154,-95.9928,"craft, wood, glass"
-Bakersfield,35.3733,-119.0187,"draw, photograph, sculptur"
-Tampa,27.9517,-82.4588,"glass, contemporary, photograph"
-Wichita,37.6872,-97.3301,"festival, sculptur, portrait"
-Corpus Christi,27.8006,-97.3964,"design, mural, paint"
-Orlando,28.5384,-81.3789,"paint, sculptur, modern"
-Cincinnati,39.1031,-84.512,"contemporary, immers, modern"
-Santa Ana,33.7455,-117.8677,"contemporary, mural, festival"
-Irvine,33.6846,-117.8265,"interactiv, contemporary, immers"
-Irving,32.814,-96.9489,"sculptur, festival, contemporary"
-St. Pete,27.7671,-82.6384,"mural, fine art, craft"
-Chesapeake,36.7682,-76.2875,"folk, craft, modern"
-Laredo,27.5036,-99.5076,"craft, photograph, garden"
-Glendale,33.5387,-112.186,"contemporary, modern, garden"
-Chula Vista,32.6401,-117.0842,"fine art, visual art, illustrat"
-Chandler,33.3062,-111.8413,"design, paint, craft"
-Vegas,36.1989,-115.1175,"mural, fine art, paint"
-Buffalo,42.8864,-78.8784,"paint, interactiv, draw"
-Gilbert,33.3528,-111.789,"photograph, contemporary, print"
-Winston-Salem,36.0999,-80.2442,"craft, visual art, fine art"
-Scottsdale,33.4949,-111.9217,"paint, sculptur, contemporary"
-Boise,43.615,-116.2023,"mural, garden, paint"
-Norfolk,36.8508,-76.2859,"folk, fair, paint"
-Baton Rouge,30.4515,-91.1871,"festival, visual art, fine art"
-Tacoma,47.2529,-122.4443,"glass, festival, wood"
-Hialeah,25.8576,-80.2781,"garden, sculptur, visual art"
-Santa Clarita,34.3917,-118.5426,"print, paint, fine art"
-San Bernardino,34.1083,-117.2898,"contemporary, design, interactiv"
-Jersey City,40.7178,-74.0431,"visual art, draw, architectur"
-Plano,33.0198,-96.6989,"visual art, fine art, illustrat"
-Anchorage,61.2176,-149.8997,"print, portrait, visual art"
-St. Louis,38.627,-90.1994,"print, sculptur, contemporary"
-Durham,35.994,-78.8986,"mural, sculptur, contemporary"
-Madison,43.0722,-89.4008,"festival, fine art, photograph"
-Reno,39.5299,-119.8143,"draw, paint, photograph"
-Fort Wayne,41.0793,-85.1394,"festival, digital, print"
-Toledo,41.6528,-83.5379,"festival, glass, sculptur"
-Lubbock,33.5846,-101.8456,"fine art, paint, craft"
-Augusta,33.4735,-82.0105,"sculptur, paint, design"
-Salt Lake City,40.7608,-111.891,"fine art, print, contemporary"
-Little Rock,34.7445,-92.288,"sculptur, fine art, mural"
-Frisco,33.1507,-96.8236,"wood, paint, fair"
-Cape Coral,26.5629,-81.9495,"festival, paint, craft"
-Rochester,43.1566,-77.6088,"photograph, festival, contemporary"
-Des Moines,41.5868,-93.625,"wood, paint, sculptur"
-Fayetteville,35.0524,-78.8784,"paint, photograph, visual art"
-Huntsville,34.7304,-86.5861,"craft, festival, photograph"
-Fremont,37.5485,-121.9886,"photograph, fine art, design"
-Richmond,37.5407,-77.436,"design, visual art, fine art"
-St. Lucie,27.273,-80.3582,"garden, clay, visual art"
-Quebec,46.8131,-71.2075,"design, contemporary, modern"
-Winnipeg,49.8954,-97.1385,"photograph, sculptur, contemporary"
-Mississauga,43.589,-79.6441,"visual art, fine art, illustrat"
-Hamilton,43.2557,-79.8711,"contemporary, design, fine art"
-Vancouver,49.2827,-123.1207,"mural, contemporary, festival"
-Montreal,45.5019,-73.5674,"digital, paint, contemporary"
-Toronto,43.6532,-79.3832,"design, contemporary, photograph"
-Edmonton,53.5461,-113.4937,"craft, paint, photograph"
-Ottawa,45.4215,-75.6972,"visual art, digital, mural"
-Windsor,42.3149,-83.0364,"visual art, fine art, illustrat"
-Markham,43.8561,-79.337,"wood, design, graffiti"
-Victoria,48.4284,-123.3656,"contemporary, wood, paint"
-Okanagan,49.8339,-119.5236,"photograph, paint, design"
-Oshawa,43.8971,-78.8658,"contemporary, paint, design"
-Laval,45.6066,-73.7124,"photograph, visual art, draw"
-Halifax,44.8857,-63.1005,"draw, festival, photograph"
-Surrey,49.1913,-122.849,"paint, digital, mural"
-London,42.9849,-81.2453,"visual art, digital, draw"
-Brampton,43.7315,-79.7624,"draw, modern, garden"
-Mexico City,19.4326,-99.1332,"paint, sculptur, print"
-Iztapalapa,19.3467,-99.0799,"arte, visual art, fine art"
-Guadalajara,20.6752,-103.3473,"glass, visual art, fine art"
-Puebla,19.0414,-98.2063,"contemporary, arte, architectur"
-Aguascalientes,21.8853,-102.2916,"arte, contemporáne, digital"
-Hermosillo,29.073,-110.9559,"arte, cuadro, visual art"
-Juarez,31.6904,-106.4245,"design, print, contemporary"
-Zapopan,20.672,-103.4165,"arte, paint, contemporary"
-Gustavo,19.4873,-99.1236,"arte, pintura, mural"
-Mexicali,32.6245,-115.4523,"arte, digital, contemporáne"
-Culiacán,24.8091,-107.394,"arte, fotografía, grabado"
-Acapulco,16.864,-99.8823,"arte, digital, visual art"
-Guadalupe,16.265,-61.551,"feria, arte, digital"
-Tlalnepantla,19.5345,-99.1907,"arte, diseño, escultura"
-Matamoros,25.869,-97.5027,"arte, festival, escultura"
-Venustiano Carranza,19.4306,-99.095,"arte, ilustración, visual art"
-Apodaca,25.7765,-100.1859,"arte, festival, fotografía"
-Veracruz,19.1738,-96.1342,"arte, artesanía, étnic"
-San Nicolás,12.4228,-69.8776,"cuadro, fotografía, arte"
-Coyoacan,19.3487,-99.1629,"arte, contemporáne, arquitectura"
-Cancun,21.1619,-86.8515,"paint, sculptur, design"
-Querétaro,20.5888,-100.3899,"arte, interactiv, diseño"
-Torreón,25.5428,-103.4068,"arte, pintura, retrato"
-Chimalhuacán,19.4314,-98.9582,"arte, digital, retrato"
-Xochimilco,19.2572,-99.103,"festival, inmersiv, arte"
-Xalapa,19.5438,-96.9102,"visual art, fine art, illustrat"
-Azcapotzalco,19.4847,-99.1887,"arte, escultura, visual art"
-Tonalá,20.6237,-103.2414,"arte, cerámic, festival"
-Benito Juárez,19.2354,-99.0927,"arte, cuadro, fiesta"
-Toluca,19.2826,-99.6557,"arte, escultura, diseño"
-Durango,24.0248,-104.6608,"arte, modern, grabado"
-Tuxtla,16.7516,-93.103,"jardin, arte, modern"
-Morelia,19.706,-101.195,"arte, artesanía, contemporáne"
-Tlaquepaque,20.6025,-103.3362,"arte, a mano, artesanía"
-Tlalpan,19.2791,-99.2114,"grabado, arte, visual art"
-Reynosa,26.0508,-98.2979,"arte, mural, las artes plásticas"
-Naucalpan,19.4737,-99.2337,"jardin, escultura, arte"
-Mérida,20.9674,-89.5926,"arte, contemporáne, escultura"
-Chihuahua,28.6434,-106.0588,"arte, fotografía, retrato"
-Monterrey,25.6866,-100.3161,"fair, 艺术, visual art"
-Neza,19.3995,-98.9897,"arte, feria, fiesta"
-Nuevo Laredo,27.4779,-99.5496,"arte, pintura, visual art"
-Iztacalco,19.3948,-99.0977,"arte, interactiv, contemporáne"
-Villahermosa,17.9895,-92.9475,"feria, arte, modern"
-Xico,19.4248,-97.0042,"arte, interactiv, digital"
-Celaya,20.528,-100.8113,"arte, festival, artesanía"
-Limon,9.9913,-83.0415,"20th century, twentieth century, architectur"
-Panama,8.9824,-79.5199,"folk, modern, design"
-San Salvador,13.6929,-89.2182,"sculptur, design, contemporary"
-Jose,9.9281,-84.0907,"design, contemporary, architectur"
-Belize,17.5046,-88.1962,"paint, modern, visual art"
-Guatemala City,14.6349,-90.5069,"contemporary, modern, immers"
-Leon,12.4343,-86.8805,"architectur, paint, print"
-Managua,12.115,-86.2362,"folk, paint, print"
-Tegucigalpa,14.065,-87.1715,"paint, fine art, draw"
-San Pedro Sula,15.5039,-88.0139,"contemporary, sculptur, paint"
-Fortaleza,-3.7327,-38.527,"festival, arte, visual art"
-Belo Horizonte,-19.9191,-43.9387,"craft, festival, arte"
-Sao Paulo,-23.5558,-46.6396,"arte, contemporary, modern"
-Salvador,-12.9777,-38.5016,"modern, arte, garden"
-Rio de Janeiro,-22.9068,-43.1729,"modern, folk, arte"
-Curitiba,-25.4269,-49.2652,"arte, photograph, wood"
-Belem,-1.4563,-48.5013,"arte, festival, visual art"
-Porto Alegre,-30.0368,-51.209,"festival, arte, visual art"
-Manaus,-3.119,-60.0217,"festival, arte, visual art"
-Recife,-8.0578,-34.8829,"arte, paint, modern"
-Cali,3.4516,-76.532,"craft, modern, design"
-Barranquilla,11.0041,-74.807,"architectur, immers, paint"
-Medellin,6.2476,-75.5658,"festival, arte, paint"
-Bucaramanga,7.1193,-73.1227,"contemporary, arte, modern"
-Cartagena,10.3932,-75.4832,"design, modern, paint"
-Bogota,4.711,-74.0721,"paint, contemporary, modern"
-Pereira,4.8087,-75.6906,"arte, mural, sculptur"
-Florianopolis,-27.5969,-48.5468,"festival, arte, visual art"
-Niteroi,-22.8807,-43.1014,"contemporary, modern, arte"
-Joao Pessoa,-7.1188,-34.8814,"festival, visual art, fine art"
-Campo Grande,-20.4649,-54.6218,"architectur, design, ethnic"
-Serra,-20.128,-40.3081,"paint, design, contemporary"
-Goytacazes,-21.7624,-41.3187,"contemporary, paint, architectur"
-Betim,-19.9697,-44.2032,"garden, contemporary, modern"
-Salta,-24.7821,-65.4232,"arte, architectur, contemporáne"
-Mar del Plata,-38.0055,-57.5426,"visual art, fine art, illustrat"
-La Plata,-34.9205,-57.9536,"design, draw, paint"
-Resistencia,-27.4519,-58.9856,"fotografia, craft, festival"
-Cordoba,-31.4201,-64.1888,"architectur, glass, sculptur"
-Rosario,-32.9587,-60.693,"fine art, garden, contemporáne"
-San Miguel de Tucum,-26.8083,-65.2176,"paint, modern, contemporary"
-Mendoza,-32.8895,-68.8458,"sculptur, draw, paint"
-Buenos Aires,-34.6037,-58.3816,"modern, fine art, decorativ"
-Natal,-5.7842,-35.2,"festival, arte, visual art"
-Goiania,-16.6868,-49.2708,"contemporary, festival, visual art"
-Brasilia,-15.7975,-47.8919,"paint, digital, architectur"
-Sao Luis,-2.5307,-44.2989,"festival, 20th century, architectur"
-Maceio,-9.666,-35.7352,"folk, festival, architectur"
-Maracaibo,10.641,-71.6074,"festival, arte, fine art"
-Caracas,10.4806,-66.9036,"arte, festival, fine art"
-Valencia,10.1579,-67.9972,"festival, visual art, fine art"
-Maracay,10.2442,-67.6066,"festival, contemporary, arte"
-Barquisimeto,10.0678,-69.3474,"craft, architectur, glass"
-Santa Marta,11.2404,-74.211,"architectur, design, glass"
-Neiva,2.9345,-75.2809,"folk, craft, contemporary"
-Pasto,1.2059,-77.2858,"architectur, craft, modern"
-Manizales,5.063,-75.5028,"festival, fair, electrónic"
-Ibague,4.4447,-75.2424,"folk, garden, draw"
-Santiago,-33.4489,-70.6693,"contemporary, paint, fine art"
-Antofagasta,-23.6509,-70.3975,"visual art, fine art, illustrat"
-Valparaiso,-33.0473,-71.6127,"street art, fine art, mural"
-Puente Alto,-33.6029,-70.5771,"contemporary, design, photograph"
-Cuenca,-2.9001,-79.0059,"arte, modern, photograph"
-Guayaquil,-2.1891,-79.8899,"paint, modern, contemporáne"
-Quito,-0.2233,-78.5141,"paint, sculptur, draw"
-La Paz,-16.4897,-68.1193,"arte, paint, modern"
-Sierra,-17.7981,-63.1925,"visual art, fine art, illustrat"
-Sucre,-19.0353,-65.2592,"print, photograph, arte"
-Cochabamba,-17.414,-66.1653,"contemporary, arte, contemporáne"
-Iquitos,-3.7438,-73.2516,"festival, visual art, fine art"
-Piura,-5.1783,-80.6549,"festival, arte, visual art"
-Chimbote,-9.0633,-78.589,"clay, festival, visual art"
-Huancayo,-12.0686,-75.2103,"festival, visual art, fine art"
-Lima,-12.0467,-77.0431,"visual art, fine art, illustrat"
-Trujillo,-8.1158,-79.0257,"festival, visual art, fine art"
-Callao,-12.0512,-77.1257,"photograph, festival, arte"
-Chiclayo,-6.7713,-79.8452,"clay, modern, craft"
-Arequipa,-16.4057,-71.5401,"visual art, fine art, illustrat"
-Montevideo,-34.9055,-56.1851,"arte, decorativ, visual art"
-Paramaribo,5.852,-55.2038,"street art, sculptur, festival"
-Georgetown,6.8013,-58.1551,"design, wood, craft"
-Ciudad del Este,-25.4987,-54.6637,"craft, electronic, modern"
-Asuncion,-25.2637,-57.5759,"visual art, fine art, illustrat"
-Leipzig,51.3397,12.3731,"print, paint, architectur"
-Nuremberg,49.4543,11.0746,"modern, paint, contemporary"
-Stuttgart,48.7758,9.1829,"design, glass, visual art"
-Dresden,51.0504,13.7373,"paint, sculptur, draw"
-Düsseldorf,51.223,6.7825,"contemporary, photograph, festival"
-Berlin,52.52,13.405,"paint, sculptur, draw"
-Cologne,50.9375,6.9603,"paint, architectur, sculptur"
-Munich,48.1351,11.582,"festival, sculptur, paint"
-Frankfurt,50.1109,8.6821,"contemporary, modern, architectur"
-Hamburg,53.5488,9.9872,"contemporary, photograph, sculptur"
-Montpellier,43.6109,3.8761,"contemporary, street art, garden"
-Lille,50.6244,3.0679,"photograph, contemporary, architectur"
-Strasbourg,48.5734,7.7521,"modern, draw, contemporary"
-Nantes,47.2184,-1.5536,"print, contemporary, paint"
-Bordeaux,44.8416,-0.5811,"street art, contemporary, graffiti"
-Marseille,43.2965,5.3698,"sculptur, paint, contemporary"
-Paris,48.8566,2.3522,"modern, architectur, sculptur"
-Nice,43.7102,7.262,"modern, visual art, fine art"
-Lyon,45.764,4.8357,"contemporary, paint, sculptur"
-Toulouse,43.6048,1.4428,"garden, jardin, architectur"
-Milan,45.4642,9.19,"fair, visual art, fine art"
-Palermo,38.1157,13.3615,"modern, 20th century, twentieth century"
-Rome,41.8967,12.4822,"modern, paint, sculptur"
-Naples,40.8518,14.2681,"paint, design, contemporary"
-Turin,45.0703,7.6869,"modern, arte, contemporary"
-Nottingham,52.954,-1.155,"contemporary, modern, design"
-Sheffield,53.3811,-1.4701,"festival, garden, modern"
-Birmingham,52.4862,-1.8904,"print, photograph, draw"
-Liverpool,53.4084,-2.9916,"modern, digital, immers"
-Bristol,51.4545,-2.5879,"photograph, paint, street art"
-Leeds,53.8008,-1.5491,"sculptur, paint, photograph"
-Leicester,52.6369,-1.1398,"modern, digital, visual art"
-Glasgow,55.8617,-4.2583,"contemporary, print, modern"
-Edinburgh,55.9533,-3.1883,"contemporary, modern, print"
-Seville,37.3891,-5.9845,"festival, architectur, paint"
-Zaragoza,41.6474,-0.8861,"paint, sculptur, fine art"
-Barcelona,41.3874,2.1686,"modern, contemporary, architectur"
-Madrid,40.4168,-3.7038,"contemporary, fair, conceptual"
-Kyiv,50.4504,30.5245,"paint, fair, mural"
-Dnipro,48.4647,35.0462,"paint, draw, immers"
-Lviv,49.8397,24.0297,"craft, visual art, fine art"
-Kharkiv,50.002,36.3074,"photograph, visual art, fine art"
-Odessa,46.4702,30.7306,"contemporary, photograph, modern"
-Florence,43.77,11.2577,"print, garden, visual art"
-Verona,45.4384,10.9917,"paint, sculptur, contemporary"
-Genoa,44.4071,8.9347,"architectur, modern, sculptur"
-Trieste,45.6495,13.7768,"design, contemporary, illustrat"
-Bologna,44.4949,11.3426,"arte, modern, paint"
-Gdansk,54.352,18.6466,"photograph, architectur, draw"
-Bydgoszcz,53.1235,18.0084,"paint, 20th century, craft"
-Szczecin,53.4285,14.5528,"architectur, garden, design"
-Katowice,50.2649,19.0238,"modern, architectur, 20th century"
-Lublin,51.2509,22.5747,"photograph, folk, garden"
-Malaga,36.7178,-4.4256,"paint, contemporary, modern"
-Murcia,37.9922,-1.1307,"paint, fine art, decorativ"
-Bilbao,43.2634,-2.9348,"mural, modern, paint"
-Mallorca,39.5727,2.6569,"paint, contemporary, sculptur"
-Palmas,28.1009,-15.4654,"paint, modern, arte"
-Krakow,50.0647,19.945,"contemporary, arte, visual art"
-Wroclaw,51.1093,17.0386,"contemporary, modern, architectur"
-Lodz,51.7593,19.4559,"street art, festival, craft"
-Poznan,52.4057,16.9313,"visual art, fine art, illustrat"
-Warsaw,52.2297,21.0122,"sculptur, contemporary, modern"
-Rotterdam,51.9244,4.4777,"photograph, interactiv, contemporary"
-Hague,52.0705,4.3007,"paint, modern, draw"
-Amsterdam,52.3676,4.9041,"photograph, contemporary, paint"
-Utrecht,52.0907,5.1214,"design, interactiv, arte"
-Eindhoven,51.4231,5.4623,"graffiti, street art, paint"
-Napoca,46.7712,23.6236,"garden, architectur, design"
-Timisoara,45.7489,21.2087,"architectur, street art, modern"
-Constanta,44.1759,28.6519,"modern, architectur, sculptur"
-Bucharest,44.4268,26.1025,"architectur, visual art, fine art"
-Iași,47.1585,27.6014,"paint, garden, design"
-Antwerp,51.2213,4.4051,"print, fine art, paint"
-Brussels,50.8476,4.3572,"contemporary, photograph, paint"
-Prague,50.0755,14.4378,"decorativ, contemporary, modern"
-Ghent,51.05,3.7303,"contemporary, visual art, fine art"
-Brno,49.1951,16.6068,"contemporary, architectur, paint"
-Gothenburg,57.7089,11.9746,"street art, contemporary, paint"
-Stockholm,59.3293,18.0686,"garden, modern, design"
-Malmo,55.605,13.0038,"design, modern, contemporary"
-Lisbon,38.7223,-9.1393,"arte, paint, modern"
-Patra,38.2466,21.7346,"street art, contemporary, modern"
-Athens,37.9838,23.7275,"contemporary, modern, design"
-Porto,41.1579,-8.6291,"paint, illustrat, contemporary"
-Thessaloniki,40.6401,22.9444,"contemporary, modern, design"
-Zurich,47.3769,8.5417,"contemporary, design, photograph"
-Basel,47.5596,7.5886,"fair, contemporary, paint"
-Minsk,53.9006,27.559,"paint, handmade, contemporary"
-Belgrade,44.8125,20.4612,"festival, illustrat, paint"
-Geneva,46.2044,6.1432,"paint, fine art, modern"
-Helsinki,60.1699,24.9384,"visual art, fine art, illustrat"
-Copenhagen,55.6761,12.5683,"design, modern, paint"
-Plovdiv,42.1354,24.7453,"paint, contemporary, design"
-Sofia,42.6977,23.3219,"contemporary, paint, photograph"
-Aarhus,56.1629,10.2039,"arte, modern, street art"
-Zagreb,45.815,15.9819,"modern, digital, architectur"
-Oslo,59.9139,10.7522,"sculptur, design, contemporary"
-Bratislava,48.1486,17.1077,"design, garden, immers"
-Kosice,48.7164,21.2611,"contemporary, mural, modern"
-Bergen,60.3913,5.3221,"draw, craft, glass"
-Graz,47.0679,15.4417,"modern, folk, garden"
-Linz,48.3069,14.2859,"modern, mural, festival"
-Budapest,47.4979,19.0402,"street art, graffiti, photograph"
-Vienna,48.2081,16.3713,"craft, modern, digital"
-Debrecen,47.5289,21.6254,"architectur, contemporary, garden"
-Dublin,53.3498,-6.2603,"paint, modern, contemporary"
-Tbilisi,41.6938,44.8015,"print, paint, fine art"
-Sarajevo,43.8563,18.4131,"design, contemporary, digital"
-Yerevan,40.1872,44.5152,"paint, craft, arte"
-Cork,51.8985,-8.4756,"paint, photograph, sculptur"
-Tirana,41.3275,19.8187,"paint, mural, wood"
-Chisinau,47.0105,28.8638,"paint, festival, modern"
-Ljubljana,46.0569,14.5058,"architectur, design, paint"
-Vilnius,54.6872,25.2797,"architectur, glass, immers"
-Riga,56.9677,24.1056,"contemporary, paint, design"
-Skopje,41.9981,21.4254,"contemporary, design, festival"
-Pristina,42.6629,21.1655,"draw, paint, contemporary"
-Reykjavík,64.147,-21.9408,"photograph, sculptur, contemporary"
-Tallinn,59.437,24.7536,"design, contemporary, festival"
-Omsk,54.9914,73.3645,"architectur, 20th century, wood"
-Samara,53.2038,50.1606,"design, paint, contemporary"
-Kazan,55.7879,49.1233,"fine art, paint, visual art"
-Rostov,47.2357,39.7015,"paint, multimedia, craft"
-Chelyabinsk,55.1644,61.4368,"fine art, craft, contemporary"
-Orenburg,51.7682,55.097,"fine art, visual art, illustrat"
-Irkutsk,52.2855,104.289,"paint, modern, craft"
-Vladivostok,43.1332,131.9113,"contemporary, paint, photograph"
-Ryazan,54.6095,39.7126,"paint, draw, folk"
-Barnaul,53.3497,83.7836,"modern, folk, festival"
-Khabarovsk,48.4814,135.0721,"paint, visual art, fine art"
-Yaroslavl,57.6261,39.8845,"paint, architectur, fine art"
-Ulyanovsk,54.3187,48.3978,"paint, draw, portrait"
-Voronezh,51.6683,39.1919,"clay, craft, folk"
-Izhevsk,56.8619,53.2324,"paint, design, photograph"
-Krasnodar,45.036,38.9746,"paint, 20th century, design"
-Tolyatti,53.5085,49.4182,"fine art, contemporary, paint"
-Konya,37.8746,32.4932,"garden, architectur, wood"
-Kayseri,38.7205,35.4826,"portrait, fair, visual art"
-Diyarbakir,37.925,40.211,"architectur, festival, garden"
-Gaziantep,37.066,37.3781,"festival, wood, craft"
-Antalya,36.8969,30.7133,"modern, fair, visual art"
-Krasnoyarsk,56.0153,92.8932,"paint, wood, garden"
-Saratov,51.5462,46.0154,"paint, fine art, design"
-Perm,58.0092,56.227,"visual art, fine art, illustrat"
-Volgograd,48.708,44.5133,"20th century, design, architectur"
-Ufa,54.7348,55.9579,"contemporary, paint, design"
-Taraz,42.8984,71.398,"arte, draw, modern"
-Astana,51.1655,71.4272,"visual art, fine art, illustrat"
-Almaty,43.238,76.8829,"fine art, contemporary, paint"
-Karagandy,49.8047,73.1094,"fine art, paint, print"
-Shymkent,42.3205,69.5876,"sculptur, craft, modern"
-Naberezhnye Chelny,55.7306,52.3893,"design, architectur, modern"
-Tyumen,57.1553,65.5619,"paint, portrait, fine art"
-Tomsk,56.4884,84.948,"arte, visual art, fine art"
-Astrakhan,46.3586,48.0569,"draw, paint, design"
-Lipetsk,52.6122,39.5981,"paint, contemporary, design"
-Penza,53.2273,45,"modern, arte, visual art"
-Yekaterinburg,56.8431,60.6454,"modern, visual art, fine art"
-Moscow,55.7558,37.6173,"fine art, paint, craft"
-Novosibirsk,54.9833,82.8964,"architectur, paint, wood"
-Petersburg,59.9311,30.3609,"visual art, fine art, illustrat"
-Novgorod,58.5256,31.2742,"paint, portrait, draw"
-Mersin,36.8121,34.6415,"paint, architectur, photograph"
-Uskudar,41.0322,29.0319,"craft, immers, design"
-Eskisehir,39.7667,30.5256,"craft, modern, photograph"
-Sanliurfa,37.1674,38.7955,"sculptur, architectur, garden"
-Malatya,38.3554,38.3335,"festival, modern, architectur"
-Muratpasa,36.8916,30.765,"festival, contemporary, modern"
-Baku,40.4093,49.8671,"contemporary, design, architectur"
-Sumqayit,40.5855,49.6317,"modern, photograph, festival"
-Izmir,38.4237,27.1428,"photograph, paint, sculptur"
-Istanbul,41.0082,28.9784,"modern, contemporary, design"
-Ankara,39.9334,32.8597,"contemporary, sculptur, fair"
-Bursa,40.1885,29.061,"photograph, glass, folk"
-Adana,36.9914,35.3308,"arte, paint, modern"
-南京,32.0584,118.7965,"艺术, 绘画, 油画"
-成都,30.5723,104.0665,"艺术, 当代, 现代"
-武汉,30.5928,114.3052,"艺术, 当代, modern"
-东莞,23.0207,113.7518,"艺术, 绘画, 花园"
-重庆,29.5657,106.5512,"艺术, 当代, 油画"
-济南,36.6518,117.1201,"艺术, 版画, 当代"
-汕头,23.3535,116.6822,"艺术, 民族, 当代"
-泰安,36.1999,117.0884,"visual art, fine art, illustrat"
-郑州,34.7472,113.6249,"visual art, fine art, illustrat"
-苏州,31.2983,120.5832,"visual art, fine art, illustrat"
-青岛,36.0662,120.383,"摄影, 艺术, 当代"
-昆明,24.8797,102.8332,"当代, visual art, fine art"
-杭州,30.2741,120.1552,"艺术, 油画, 工艺"
-沈阳,41.8048,123.433,"建筑, visual art, fine art"
-石家庄,38.0428,114.5143,"艺术, 20世纪, 绘画"
-兰州,36.0614,103.8342,"艺术, 油画, 设计"
-乌鲁木齐,43.8266,87.6169,"艺术, visual art, fine art"
-长沙,28.2278,112.9389,"艺术, 设计, 建筑"
-岳阳,29.3573,113.1292,"艺术, 油画, 摄影"
-鞍山,41.1078,122.9946,"艺术, 当代, 绘画"
-邯郸,36.6256,114.5392,"visual art, fine art, illustrat"
-包头,40.6578,109.8402,"雕塑, 艺术, visual art"
-淄博,36.8131,118.0548,"艺术, 现代, 版画"
-唐山,39.6304,118.1802,"visual art, fine art, illustrat"
-合肥,31.8206,117.229,"艺术, 设计, 绘画"
-十堰,S32.6292,110.798,"民族, visual art, fine art"
-巴彦淖尔,40.7432,107.3877,"艺术, 民族, 现代"
-宁波,29.8683,121.544,"艺术, 当代, 现代"
-天水,34.5808,105.7249,"艺术, 陶瓷, visual art"
-濮阳,35.7619,115.0293,"艺术, 绘画, 当代"
-无锡,31.491,120.3124,"visual art, fine art, illustrat"
-厦门,24.4795,118.0895,"visual art, fine art, illustrat"
-天津,39.0851,117.1994,"艺术, 当代, 绘画"
-深圳市,22.5429,114.0596,"艺术, 当代, contemporary"
-大同,40.0764,113.3,"艺术, 当代, 建筑"
-丽江,26.8565,100.2271,"visual art, fine art, illustrat"
-常熟,31.6538,120.7522,"艺术, 当代, 现代"
-福州,26.0742,119.2965,"摄影, 艺术, 建筑"
-贵阳,26.6476,106.6302,"艺术, 当代, visual art"
-수원,37.2668,127.0015,"visual art, fine art, illustrat"
-Busan,35.21,129.0689,"contemporary, photograph, draw"
-Seoul,37.5519,126.9918,"paint, contemporary, wood"
-청주시,36.6283,127.4913,"visual art, fine art, illustrat"
-전주,35.8397,127.1293,"visual art, fine art, illustrat"
-안산시,37.3173,126.8209,"visual art, fine art, illustrat"
-Gimhae,35.2339,128.8845,"visual art, fine art, illustrat"
-천안,36.8136,127.1417,"visual art, fine art, illustrat"
-Jinju,35.1757,128.1178,"visual art, fine art, illustrat"
-광명,37.4419,126.8469,"visual art, fine art, illustrat"
-Hong Kong,22.3193,114.1694,"digital, photograph, print"
-高雄市,22.6273,120.3014,"玻璃, glass, modern"
-北市,25.033,121.5654,"沉浸式, visual art, fine art"
-臺南,22.9999,120.2269,"雕塑, 沉浸式, visual art"
-臺中,24.1632,120.6747,"雕塑, 交互, visual art"
-板橋,25.0114,121.4618,"design, 手作, 概念"
-員林,23.9596,120.5855,"visual art, fine art, illustrat"
-新竹,24.8138,120.9675,"玻璃, glass, 概念"
-桃園,24.9917,121.299,"概念, 沉浸式, draw"
-花蓮,23.9872,121.6016,"visual art, fine art, illustrat"
-Delhi,28.7041,77.1025,"fine art, contemporary, visual art"
-Mumbai,19.076,72.8777,"contemporary, modern, paint"
-Kolkata,22.5744,88.3629,"contemporary, paint, modern"
-Chennai,13.0843,80.2705,"contemporary, arte, fine art"
-Ahmedabad,23.0225,72.5714,"design, visual art, paint"
-Kanpur,26.4499,80.3319,"paint, craft, draw"
-Jaipur,26.9124,75.7873,"folk, paint, modern"
-Pune,18.5204,73.8567,"paint, craft, contemporary"
-Hyderabad,17.4065,78.4772,"design, sculptur, paint"
-Surat,21.1702,72.8311,"craft, festival, visual art"
-Muzaffarabad,34.3551,73.4769,"portrait, visual art, fine art"
-Gujranwala,32.1877,74.1945,"festival, immers, modern"
-Quetta,30.1834,66.9987,"craft, immers, festival"
-Islamabad,33.6995,73.0363,"design, modern, folk"
-Peshawar,34.0151,71.5249,"craft, architectur, sculptur"
-Battagram,34.6724,73.0243,"fair, visual art, fine art"
-Dhaka,23.8041,90.4152,"fine art, visual art, illustrat"
-Chittagong,22.3752,91.8349,"paint, design, folk"
-Khulna,22.8373,89.54,"contemporary, visual art, fine art"
-Rangpur,25.7494,89.2611,"architectur, 20th century, design"
-Rajshahi,24.3746,88.6004,"design, craft, architectur"
-Kathmandu,27.7103,85.3222,"paint, architectur, craft"
-Biratnagar,26.4525,87.2718,"paint, craft, modern"
-Patan,27.6588,85.3247,"architectur, craft, modern"
-Pokhara,28.2096,83.9856,"ethnic, immers, visual art"
-Janakpur,26.7271,85.9407,"festival, paint, craft"
-Herat,34.3529,62.204,"photograph, architectur, paint"
-Balkh,36.7551,66.8975,"contemporary, festival, visual art"
-Jalal,34.4284,70.4578,"visual art, fine art, illustrat"
-Kabul,34.5553,69.2075,"paint, modern, contemporary"
-Khost,33.3338,69.9372,"immers, visual art, fine art"
-Mazar,36.6926,67.118,"arte, draw, glass"
-Kunduz,36.7286,68.8681,"photograph, craft, architectur"
-Multan,30.1864,71.4886,"paint, visual art, fine art"
-Lahore,31.5204,74.3587,"paint, contemporary, craft"
-Karachi,24.8607,67.0011,"visual art, fine art, illustrat"
-Rawalpindi,33.5651,73.0169,"fine art, design, architectur"
-Faisalabad,31.4504,73.135,"visual art, contemporary, glass"
-Tehran,35.7219,51.3347,"contemporary, glass, modern"
-Shiraz,29.5926,52.5836,"paint, wood, craft"
-Tabriz,38.0792,46.2887,"architectur, design, craft"
-Qom,34.6416,50.8746,"paint, craft, wood"
-Isfahan,32.6539,51.666,"craft, contemporary, festival"
-Mashhad,36.2972,59.6067,"paint, architectur, design"
-Dehiwala,6.8301,79.8801,"fair, craft, festival"
-Colombo,6.9271,79.8612,"arte, craft, architectur"
-Bhutan,27.4716,89.6386,"arte, visual art, fine art"
-Maldives,4.1753,73.5091,"craft, conceptual, photograph"
-Moratuwa,6.7881,79.8913,"architectur, portrait, garden"
-Bandung,-6.9175,107.6191,"festival, sculptur, visual art"
-Surabaya,-7.2575,112.7521,"festival, visual art, fine art"
-Bekasi,-6.2734,106.9831,"immers, interactiv, digital"
-Medan,3.5952,98.6722,"fine art, design, visual art"
-Jakarta,-6.1944,106.8229,"contemporary, modern, design"
-Quy Nhon,13.783,109.2197,"architectur, print, decorativ"
-Hue,16.4637,107.5909,"paint, design, garden"
-Can Tho,10.0452,105.7469,"craft, visual art, fine art"
-Vung Tau,10.4114,107.1362,"craft, garden, visual art"
-Nha Trang,12.2529,109.1899,"architectur, draw, garden"
-Ho Chi Minh,10.8231,106.6297,"contemporary, paint, fine art"
-Hai Phong,20.8449,106.6881,"festival, fine art, visual art"
-Hanoi,21.0278,105.8342,"contemporary, photograph, arte"
-Bien Hoa,10.9574,106.8427,"garden, design, fair"
-Da Nang,16.0544,108.2022,"sculptur, architectur, garden"
-Buda,7.5377,125.3247,"visual art, fine art, illustrat"
-Caloocan,14.7566,121.045,"visual art, fine art, illustrat"
-Davao,7.0736,125.611,"festival, paint, decorativ"
-Quezon,14.676,121.0437,"interactiv, festival, visual art"
-Manila,14.5995,120.9842,"contemporary, draw, paint"
-Petaling Jaya,3.1279,101.5945,"fine art, visual art, paint"
-Shah Alam,3.0733,101.5185,"festival, digital, illustrat"
-Ipoh,4.6005,101.0758,"festival, visual art, craft"
-Subang Jaya,3.0567,101.5851,"paint, glass, visual art"
-Kuching,1.5534,110.3595,"design, paint, craft"
-Chiang Mai,18.7883,98.9853,"craft, contemporary, print"
-Hat Yai,7.0086,100.4747,"immers, architectur, interactiv"
-Pak-Kret,13.9151,100.4993,"visual art, fine art, illustrat"
-Nakhon,14.9738,102.0837,"photograph, architectur, fair"
-Nonthaburi,13.862,100.4959,"architectur, wood, sculptur"
-Bangkok,13.7563,100.5018,"contemporary, photograph, modern"
-Chon,13.2017,101.2524,"visual art, fine art, illustrat"
-Udon,17.4294,102.9896,"photograph, draw, folk"
-Samut Prakan,13.5954,100.6072,"design, glass, fine art"
-Townships,15.8108,98.3088,"paint, contemporary, visual art"
-Mawlamyine,16.4543,97.644,"clay, wood, sculptur"
-Yangon,16.8409,96.1735,"design, contemporary, fair"
-Pyi,19.7633,96.0785,"garden, festival, paint"
-Mandalay,21.9588,96.0891,"wood, photograph, modern"
-Phnom,11.5564,104.9282,"craft, fair, visual art"
-Siem Reap,13.3633,103.8564,"wood, garden, paint"
-Sihanouk,10.6268,103.5116,"craft, fine art, fair"
-Battambang,13.0957,103.2022,"photograph, paint, print"
-Seremban,2.7259,101.9378,"paint, street art, festival"
-Kota Kinabalu,5.9844,116.0773,"paint, visual art, sculptur"
-Sandakan,5.8559,118.0722,"visual art, fine art, illustrat"
-Kuantan,3.8168,103.3317,"paint, visual art, fine art"
-Klang,3.0449,101.4456,"interactiv, fair, garden"
-Kota Bharu,6.1254,102.2405,"street art, mural, paint"
-Johor Bahru,1.4799,103.7643,"design, festival, paint"
-Kuala Lumpur,3.1319,101.6841,"contemporary, design, craft"
-Kampung,3.1293,101.5221,"paint, design, architectur"
-Vientiane,17.9757,102.6331,"contemporary, wood, paint"
-Dili,-8.5563,125.5798,"arte, draw, paint"
-Brunei,4.8923,114.9419,"ethnic, paint, modern"
-Singapore,1.3521,103.8198,"contemporary, digital, design"
-Pakse,15.1172,105.8159,"folk, garden, visual art"
-Taif,21.2841,40.4248,"digital, craft, festival"
-Dammam,26.4207,50.0888,"visual art, fine art, illustrat"
-Jeddah,21.5292,39.1611,"fine art, paint, photograph"
-Riyadh,24.7136,46.6753,"festival, design, contemporary"
-Mecca,21.4241,39.8173,"paint, modern, design"
-Maiduguri,11.8311,13.151,"visual art, fine art, illustrat"
-Aba,5.1216,7.3733,"festival, arte, craft"
-Jos,9.8965,8.8583,"festival, craft, paint"
-Benin,6.335,5.6037,"architectur, design, contemporary"
-Zaria,11.1247,7.7254,"modern, paint, contemporary"
-Ibadan,7.3775,3.947,"contemporary, draw, digital"
-Port Harcourt,4.8472,6.9746,"paint, print, contemporary"
-Kano,12.0022,8.592,"photograph, paint, design"
-Kaduna,10.5036,7.4337,"design, print, handmade"
-Lagos,6.5244,3.3792,"contemporary, immers, visual art"
-Giza,30.0131,31.2089,"sculptur, design, contemporary"
-Cairo,30.0444,31.2357,"contemporary, modern, design"
-Luxor,25.6872,32.6396,"paint, photograph, modern"
-Alexandria,31.2001,29.9187,"paint, modern, sculptur"
-Port Said,31.2653,32.3019,"arte, modern, garden"
-Arusha,-3.3869,36.683,"craft, paint, sculptur"
-Zanzibar,-6.16394,39.19793,"paint, handmade, print"
-Salaam,-6.8165,39.2894,"modern, paint, sculptur"
-Mwanza,-2.5164,32.9175,"ethnic, visual art, fine art"
-Mbeya,-8.9094,33.4608,"print, clay, visual art"
-Lubumbashi,-11.6876,27.5026,"photograph, arte, visual art"
-Kisangani,0.5185,25.2008,"architectur, immers, visual art"
-Kinshasa,-4.3033,15.3105,"garden, craft, modern"
-Mbuji-Mayi,-6.1307,23.5967,"ethnic, immers, craft"
-Kananga,-5.8975,22.4172,"festival, craft, modern"
-Durban,-29.8587,31.0218,"contemporary, craft, paint"
-Pretoria,-25.7566,28.1914,"craft, contemporary, photograph"
-Cape Town,-33.9221,18.4231,"contemporary, modern, digital"
-Johannesburg,-26.2056,28.0337,"craft, photograph, design"
-Soweto,-26.2485,27.854,"sculptur, festival, paint"
-Addis Ababa,9.0192,38.7525,"visual art, fine art, illustrat"
-Dire Dawa,9.6049,41.8585,"architectur, craft, immers"
-Mekele,13.4963,39.4743,"architectur, immers, mural"
-Bahir Dar,11.5876,37.3878,"visual art, fine art, illustrat"
-Gonder,12.603,37.4521,"paint, garden, craft"
-Enugu,6.4483,7.5139,"visual art, fine art, illustrat"
-Ilorin,8.5373,4.5444,"design, architectur, visual art"
-Onitsha,6.1329,6.7924,"immers, architectur, craft"
-Abeokuta,7.1475,3.3619,"architectur, immers, garden"
-Abuja,9.0563,7.4985,"visual art, fine art, illustrat"
-Bloemfontein,-29.1129,26.2149,"festival, wood, garden"
-Vereeniging,-26.5814,27.9365,"craft, fine art, paint"
-Boksburg,-26.2499,28.2454,"paint, draw, modern"
-Newcastle,-27.7257,29.9576,"craft, garden, paint"
-Welkom,-27.9868,26.7558,"festival, visual art, fine art"
-Oran,35.6987,-0.6349,"architectur, paint, fine art"
-Algiers,36.7538,3.0588,"fine art, craft, architectur"
-Constantine,36.357,6.639,"fine art, sculptur, garden"
-Setif,36.1898,5.4108,"festival, visual art, fine art"
-Tembisa,-26.0129,28.2233,"paint, visual art, fine art"
-Pietermaritzburg,-29.6015,30.379,"paint, design, draw"
-Port Elizabeth,-33.9137,25.5827,"craft, contemporary, conceptual"
-East London,-33.0003,27.8415,"wood, garden, paint"
-Benoni,-26.1507,28.3676,"garden, visual art, fine art"
-Oujda-Angad,34.6233,-2.1058,"photograph, craft, handmade"
-Luanda,-8.8147,13.2302,"fair, immers, contemporary"
-Huambo,-12.774,15.7469,"print, contemporary, paint"
-Meknes,33.8675,-5.5382,"architectur, paint, craft"
-Tangier,35.7595,-5.834,"contemporary, contemporain, visual art"
-Kisumu,-0.0917,34.768,"arte, visual art, fine art"
-Mombasa,-4.0435,39.6682,"craft, design, wood"
-Eldoret,0.5143,35.2698,"modern, visual art, fine art"
-Nakuru,-0.3031,36.08,"contemporary, craft, festival"
-Nairobi,-1.2921,36.8219,"paint, interactiv, visual art"
-Agadir,30.428,-9.5925,"architectur, festival, craft"
-Rabat,34.0084,-6.8539,"contemporary, paint, photograph"
-Casablanca,33.5731,-7.5898,"architectur, arte, paint"
-Marrakech,31.6225,-7.9898,"visual art, fine art, illustrat"
-Fez,34.0181,-5.0078,"architectur, design, draw"
-Khartoum,15.5974,32.5356,"mural, photograph, paint"
-Omdurman,15.6476,32.4807,"photograph, arte, architectur"
-Port Sudan,19.5903,37.1902,"modern, design, visual art"
-Nyala,12.0518,24.8805,"photograph, folk, festival"
-Kassala,15.4581,36.404,"craft, garden, immers"
-Antananarivo,-18.9185,47.5211,"contemporary, print, craft"
-Antsirabe,-19.873,47.0291,"garden, draw, wood"
-Antsiranana,-12.3231,49.2943,"garden, fair, paint"
-Mahajanga,-15.718,46.3173,"wood, immers, arte"
-Toliara,-23.3516,43.6855,"design, ethnic, photograph"
-Jinja,0.4479,33.2026,"paint, print, mural"
-Gulu,2.7743,32.2882,"photograph, sculptur, visual art"
-Lira,2.2596,32.8903,"modern, craft, contemporary"
-Mbarara,-0.6121,30.6373,"arte, craft, modern"
-Kampala,0.3152,32.5816,"print, craft, contemporary"
-Bobo-Dioulasso,11.1649,-4.3052,"jardin, garden, visual art"
-Abidjan,5.3252,-4.0196,"architectur, modern, contemporary"
-Ouagadougou,12.3714,-1.5197,"festival, photograph, wood"
-Banfora,10.64,-4.7588,"immers, craft, photograph"
-Dedougou,12.4601,-3.4586,"festival, craft, modern"
-Zinder,13.8018,8.9853,"craft, architectur, draw"
-Niamey,13.5116,2.1254,"design, architectur, decorativ"
-Lilongwe,-13.9865,33.7681,"craft, immers, contemporary"
-Zomba,-15.3766,35.3357,"ethnic, visual art, fine art"
-Agadez,16.9742,7.9865,"artisanal, architectur, craft"
-Lusaka,-15.4155,28.2773,"craft, contemporary, modern"
-Dakar,14.7167,-17.4677,"fair, paint, modern"
-Thies,14.791,-16.9359,"design, print, decorativ"
-Touba,8.2842,-7.6819,"contemporary, festival, modern"
-Ndola,-12.9906,28.6498,"visual art, fine art, illustrat"
-Bamenda,5.9631,10.1591,"design, paint, craft"
-Bafoussam,5.4816,10.4271,"craft, design, artisanat"
-Garoua,9.3226,13.3934,"craft, festival, modern"
-Douala,4.0511,9.7679,"contemporary, visual art, fine art"
-Yaounde,3.8617,11.5202,"contemporary, paint, visual art"
-Nampula,-15.1266,39.2687,"immers, garden, handmade"
-Beira,-19.8316,34.837,"visual art, fine art, illustrat"
-Maputo,-25.9692,32.5732,"street art, visual art, fine art"
-Matola,-25.9241,32.4657,"feira, handmade, craft"
-Nacala,-14.5656,40.6854,"craft, modern, architectur"
-Bamako,12.6392,-8.0025,"craft, festival, draw"
-Nzerekore,7.7478,-8.8253,"festival, ethnic, craft"
-Conakry,9.5091,-13.7119,"architectur, photograph, garden"
-Koutiala,12.3774,-5.4725,"festival, handmade, craft"
-Kindia,10.0407,-12.863,"festival, immers, craft"
-Sikasso,11.3154,-5.6675,"craft, ethnic, immers"
-Wau,7.7092,27.9835,"festival, ethnic, craft"
-Sarh,9.1412,18.3683,"immers, architectur, craft"
-N'Djamena,12.1191,15.0503,"immers, craft, architectur"
-Moundou,8.5915,16.0758,"festival, craft, visual art"
-Juba,4.8539,31.5825,"paint, mural, visual art"
-Malakal,9.528,31.6682,"fair, glass, multimedia"
-Abeche,13.8359,20.8434,"garden, festival, architectur"
-Tema,5.7348,0.0302,"festival, design, paint"
-Accra,5.5593,-0.1974,"contemporary, visual art, design"
-Kumasi,6.6666,-1.6163,"modern, paint, sculptur"
-Takoradi,4.9016,-1.7831,"digital, festival, sculptur"
-Tamale,9.4034,-0.8424,"contemporary, sculptur, draw"
-Lobito,-12.3757,13.561,"folk, draw, glass"
-Muyinga,-2.8461,30.3395,"design, architectur, wood"
-Ruyigi,-3.4761,30.248,"garden, fair, visual art"
-Gitega,-3.4273,29.9246,"festival, photograph, handmade"
-Bujumbura,-3.3614,29.3599,"arte, visual art, fine art"
-Gitarama,-2.0843,29.7514,"craft, handmade, design"
-Musanze,-1.5007,29.6325,"arte, design, garden"
-Butare,-2.6005,29.7419,"photograph, arte, ethnic"
-Kigali,-1.9441,30.0619,"contemporary, modern, paint"
-Mogadishu,2.0371,45.3379,"architectur, design, paint"
-Berbera,10.4348,45.014,"paint, modern, arte"
-Djibouti,11.8251,42.5903,"architectur, paint, contemporary"
-Eswatini,-26.5225,31.4659,"contemporary, design, paint"
-Cotonou,6.3562,2.4278,"contemporary, artisanal, craft"
-Djougou,9.7081,1.6664,"festival, craft, fair"
-Abomey-Calavi,6.4503,2.3468,"festival, craft, architectur"
-Porto-Novo,6.4786,2.6203,"arte, contemporary, architectur"
-Mzuzu,-11.439,34.0084,"festival, craft, contemporary"
-Kasungu,-13.0357,33.472,"immers, craft, paint"
-Bulawayo,-20.1457,28.5873,"paint, wood, craft"
-Harare,-17.8263,31.0504,"contemporary, arte, fair"
-Mutare,-18.9758,32.6691,"paint, wood, visual art"
-Chitungwiza,-18.0198,31.0679,"sculptur, visual art, fine art"
-Nouakchott,18.0735,-15.9582,"craft, contemporary, photograph"
-Bimbo,4.3227,18.5234,"garden, immers, architectur"
-Gbarnga,7.0024,-9.4728,"contemporary, design, architectur"
-Monrovia,6.3156,-10.8074,"modern, paint, contemporary"
-Windhoek,-22.5649,17.0842,"digital, design, wood"
-Libreville,0.4078,9.4403,"immers, architectur, craft"
-Brazzaville,-4.2744,15.2813,"paint, wood, visual art"
-Asmara,15.3317,38.93,"paint, modern, arte"
-Serekunda,13.437,-16.6812,"garden, festival, interactiv"
-Tunis,36.8065,10.1815,"contemporary, modern, photograph"
-Lome,6.1296,1.2197,"festival, photograph, paint"
-Sfax,34.7398,10.76,"architectur, immers, craft"
-Sokode,8.978,1.1449,"visual art, fine art, illustrat"
-Sousse,35.8245,10.6346,"arte, visual art, fine art"
-Canberra,-35.2802,149.131,"portrait, street art, mural"
-Gold Coast,-28.0167,153.4,"contemporary, design, fine art"
-Sydney,-33.8688,151.2093,"contemporary, paint, modern"
-Brisbane,-27.4705,153.026,"contemporary, modern, photograph"
-Perth,-31.9514,115.8617,"festival, draw, fine art"
-Melbourne,-37.8136,144.9631,"photograph, paint, contemporary"
-Adelaide,-34.9285,138.6007,"festival, street art, paint"
-Port Moresby,-9.479,147.1494,"craft, architectur, ethnic"
-Lae,-6.7155,146.9999,"garden, immers, craft"
-Wellington,-41.2924,174.7787,"contemporary, craft, design"
-Auckland,-36.8509,174.7645,"draw, arte, paint"
+name,latitude,longitude,keyword_1,count_1,keyword_2,count_2,keyword_3,count_3
+New York,40.7128,-74.006,paint,38.0,sculptur,26.0,photograph,17.0
+Los Angeles,34.0549,-118.2426,contemporary,16.0,garden,10.0,wood,9.0
+Chicago,41.8781,-87.6298,paint,58.0,contemporary,27.0,mural,14.0
+Phoenix,33.4484,-112.074,contemporary,21.0,paint,15.0,garden,10.0
+Houston,29.7604,-95.3698,design,35.0,contemporary,25.0,photograph,17.0
+San Antonio,29.4252,-98.4946,contemporary,24.0,glass,7.0,sculptur,7.0
+San Diego,32.7157,-117.1611,photograph,17.0,paint,16.0,contemporary,16.0
+Philadelphia,39.9526,-75.1652,paint,12.0,wood,12.0,print,10.0
+Dallas,32.7767,-96.797,festival,19.0,wood,18.0,fair,16.0
+Austin,30.2672,-97.7431,sculptur,17.0,photograph,8.0,contemporary,7.0
+Indianapolis,39.7684,-86.1581,design,2.0,contemporary,1.0,garden,1.0
+Seattle,47.6061,-122.3328,festival,7.0,20th century,3.0,immers,3.0
+Denver,39.7392,-104.9903,paint,30.0,design,18.0,contemporary,16.0
+San Francisco,37.7749,-122.4194,paint,23.0,fair,11.0,design,5.0
+Oklahoma City,35.4676,-97.5164,contemporary,10.0,digital,10.0,immers,8.0
+DC,38.9072,-77.0369,portrait,17.0,paint,12.0,photograph,11.0
+Nashville,36.1627,-86.7816,paint,18.0,contemporary,12.0,wood,12.0
+El Paso,31.7619,-106.485,paint,17.0,contemporary,13.0,glass,7.0
+Las Vegas,36.1716,-115.1391,immers,13.0,fine art,9.0,interactiv,9.0
+Boston,42.3601,-71.0589,paint,10.0,photograph,10.0,draw,8.0
+Fort Worth,32.7555,-97.3308,paint,22.0,wood,21.0,design,20.0
+Jacksonville,30.3322,-81.6557,paint,44.0,photograph,23.0,sculptur,19.0
+Columbus,32.461,-84.9877,visual art,8.0,paint,8.0,contemporary,6.0
+Charlotte,35.2271,-80.8431,mural,16.0,paint,11.0,design,7.0
+San Jose,37.3387,-121.8853,paint,3.0,folk,3.0,draw,2.0
+Louisville,38.2527,-85.7585,contemporary,9.0,paint,7.0,fine art,6.0
+Portland,45.5152,-122.6784,contemporary,32.0,paint,16.0,visual art,13.0
+Memphis,35.1495,-90.049,garden,19.0,paint,7.0,mural,6.0
+Detroit,42.3314,-83.0458,contemporary,10.0,paint,5.0,design,3.0
+Baltimore,39.2904,-76.6122,contemporary,28.0,fair,10.0,sculptur,7.0
+Milwaukee,43.0389,-87.9065,visual art,4.0,contemporary,4.0,fine art,2.0
+Albuquerque,35.0844,-106.6504,photograph,15.0,paint,8.0,contemporary,4.0
+Sacramento,38.5816,-121.4944,modern,5.0,draw,3.0,paint,3.0
+Fresno,36.7378,-119.7871,photograph,6.0,paint,3.0,portrait,2.0
+Tucson,32.254,-110.9742,sculptur,23.0,mural,14.0,garden,10.0
+Atlanta,33.7488,-84.3877,contemporary,20.0,fine art,12.0,paint,10.0
+Kansas City,39.0997,-94.5786,contemporary,19.0,paint,13.0,visual art,5.0
+Mesa,33.4152,-111.8315,wood,14.0,sculptur,14.0,garden,11.0
+Colorado Springs,38.8339,-104.8214,wood,10.0,paint,4.0,fine art,3.0
+Omaha,41.2565,-95.9345,contemporary,9.0,garden,5.0,visual art,2.0
+New Orleans,29.9511,-90.0715,sculptur,15.0,photograph,13.0,garden,11.0
+Cleveland,41.4993,-81.6944,contemporary,15.0,sculptur,13.0,paint,6.0
+Arlington,32.7357,-97.1081,fair,5.0,contemporary,4.0,visual art,3.0
+Aurora,39.7294,-104.8319,sculptur,8.0,design,5.0,illustrat,3.0
+Anaheim,33.8366,-117.9143,paint,9.0,photograph,9.0,digital,5.0
+Virginia Beach,36.8516,-75.9792,paint,8.0,sculptur,7.0,design,6.0
+Miami,25.7617,-80.1918,contemporary,11.0,paint,8.0,print,6.0
+Raleigh,35.7796,-78.6382,festival,15.0,craft,12.0,paint,9.0
+Oakland,37.8044,-122.2712,contemporary,3.0,design,2.0,garden,2.0
+Long Beach,33.7701,-118.1937,paint,33.0,contemporary,12.0,garden,8.0
+Stockton,37.9577,-121.2908,paint,7.0,fine art,4.0,craft,4.0
+Riverside,33.9806,-117.3755,paint,9.0,photograph,8.0,print,7.0
+Honolulu,21.3099,-157.8581,contemporary,12.0,paint,11.0,craft,5.0
+Lexington,38.0406,-84.5037,festival,19.0,craft,7.0,contemporary,7.0
+Henderson,36.0395,-114.9817,festival,2.0,paint,1.0,visual art,0.0
+Paul,44.9537,-93.09,design,5.0,draw,3.0,digital,2.0
+Pittsburgh,40.4406,-79.9959,photograph,19.0,contemporary,13.0,wood,9.0
+Newark,40.7357,-74.1724,festival,40.0,print,4.0,sculptur,4.0
+Greensboro,36.0726,-79.792,visual art,6.0,modern,5.0,garden,4.0
+Lincoln,40.8136,-96.7026,sculptur,30.0,garden,23.0,mural,7.0
+Minneapolis,44.9778,-93.265,sculptur,17.0,paint,13.0,garden,11.0
+Tulsa,36.154,-95.9928,contemporary,13.0,paint,11.0,wood,8.0
+Bakersfield,35.3733,-119.0187,draw,4.0,paint,3.0,photograph,3.0
+Tampa,27.9517,-82.4588,photograph,11.0,glass,11.0,contemporary,10.0
+Wichita,37.6872,-97.3301,glass,17.0,festival,13.0,photograph,10.0
+Corpus Christi,27.8006,-97.3964,mural,16.0,paint,6.0,design,5.0
+Orlando,28.5384,-81.3789,contemporary,5.0,photograph,5.0,digital,4.0
+Cincinnati,39.1031,-84.512,contemporary,16.0,visual art,9.0,photograph,8.0
+Santa Ana,33.7455,-117.8677,festival,24.0,contemporary,6.0,garden,6.0
+Irvine,33.6846,-117.8265,paint,3.0,contemporary,3.0,interactiv,3.0
+Irving,32.814,-96.9489,sculptur,8.0,garden,7.0,festival,4.0
+St. Pete,27.7671,-82.6384,glass,34.0,craft,22.0,mural,18.0
+Chesapeake,36.7682,-76.2875,craft,21.0,festival,14.0,paint,7.0
+Laredo,27.5036,-99.5076,garden,15.0,design,7.0,craft,6.0
+Glendale,33.5387,-112.186,garden,3.0,festival,2.0,immers,2.0
+Chula Vista,32.6401,-117.0842,design,2.0,garden,2.0,fine art,1.0
+Chandler,33.3062,-111.8413,print,4.0,design,3.0,photograph,3.0
+Vegas,36.1989,-115.1175,mural,7.0,immers,7.0,fine art,6.0
+Buffalo,42.8864,-78.8784,paint,10.0,digital,10.0,wood,9.0
+Gilbert,33.3528,-111.789,photograph,19.0,contemporary,4.0,print,3.0
+Winston-Salem,36.0999,-80.2442,craft,20.0,paint,15.0,contemporary,15.0
+Scottsdale,33.4949,-111.9217,paint,22.0,sculptur,11.0,contemporary,7.0
+Boise,43.615,-116.2023,portrait,43.0,mural,21.0,photograph,4.0
+Norfolk,36.8508,-76.2859,folk,154.0,garden,9.0,fair,9.0
+Baton Rouge,30.4515,-91.1871,festival,25.0,garden,4.0,interactiv,3.0
+Tacoma,47.2529,-122.4443,glass,31.0,wood,7.0,festival,6.0
+Hialeah,25.8576,-80.2781,garden,11.0,design,8.0,contemporary,4.0
+Santa Clarita,34.3917,-118.5426,print,6.0,paint,4.0,fine art,2.0
+San Bernardino,34.1083,-117.2898,contemporary,4.0,design,3.0,craft,2.0
+Jersey City,40.7178,-74.0431,visual art,11.0,draw,8.0,architectur,4.0
+Plano,33.0198,-96.6989,paint,10.0,photograph,10.0,portrait,3.0
+Anchorage,61.2176,-149.8997,photograph,4.0,print,2.0,illustrat,1.0
+St. Louis,38.627,-90.1994,contemporary,19.0,paint,18.0,sculptur,9.0
+Durham,35.994,-78.8986,mural,15.0,sculptur,4.0,contemporary,3.0
+Madison,43.0722,-89.4008,contemporary,4.0,photograph,4.0,festival,4.0
+Reno,39.5299,-119.8143,fine art,10.0,draw,5.0,paint,5.0
+Fort Wayne,41.0793,-85.1394,architectur,11.0,festival,11.0,design,9.0
+Toledo,41.6528,-83.5379,glass,22.0,festival,22.0,visual art,8.0
+Lubbock,33.5846,-101.8456,paint,15.0,fine art,13.0,craft,11.0
+Augusta,33.4735,-82.0105,sculptur,4.0,paint,3.0,design,2.0
+Salt Lake City,40.7608,-111.891,fine art,5.0,wood,4.0,print,3.0
+Little Rock,34.7445,-92.288,fine art,15.0,sculptur,6.0,craft,3.0
+Frisco,33.1507,-96.8236,paint,18.0,visual art,14.0,wood,9.0
+Cape Coral,26.5629,-81.9495,festival,6.0,paint,3.0,print,3.0
+Rochester,43.1566,-77.6088,photograph,9.0,festival,7.0,contemporary,5.0
+Des Moines,41.5868,-93.625,wood,10.0,paint,4.0,sculptur,4.0
+Fayetteville,35.0524,-78.8784,paint,5.0,photograph,5.0,visual art,0.0
+Huntsville,34.7304,-86.5861,craft,9.0,festival,5.0,photograph,1.0
+Fremont,37.5485,-121.9886,photograph,4.0,fine art,2.0,design,2.0
+Richmond,37.5407,-77.436,design,14.0,visual art,0.0,fine art,0.0
+St. Lucie,27.273,-80.3582,garden,2.0,clay,1.0,visual art,0.0
+Quebec,46.8131,-71.2075,contemporary,13.0,design,4.0,paint,3.0
+Winnipeg,49.8954,-97.1385,contemporary,5.0,photograph,4.0,sculptur,4.0
+Mississauga,43.589,-79.6441,design,3.0,paint,2.0,sculptur,1.0
+Hamilton,43.2557,-79.8711,contemporary,16.0,print,10.0,paint,8.0
+Vancouver,49.2827,-123.1207,mural,8.0,festival,7.0,contemporary,5.0
+Montreal,45.5019,-73.5674,architectur,14.0,digital,13.0,paint,11.0
+Toronto,43.6532,-79.3832,contemporary,10.0,print,5.0,design,5.0
+Edmonton,53.5461,-113.4937,paint,4.0,craft,4.0,photograph,3.0
+Ottawa,45.4215,-75.6972,photograph,5.0,print,4.0,visual art,3.0
+Windsor,42.3149,-83.0364,design,8.0,folk,4.0,wood,4.0
+Markham,43.8561,-79.337,wood,6.0,draw,2.0,garden,2.0
+Victoria,48.4284,-123.3656,contemporary,13.0,wood,13.0,paint,9.0
+Okanagan,49.8339,-119.5236,design,7.0,paint,6.0,photograph,4.0
+Oshawa,43.8971,-78.8658,paint,6.0,photograph,5.0,digital,4.0
+Laval,45.6066,-73.7124,photograph,9.0,draw,6.0,visual art,5.0
+Halifax,44.8857,-63.1005,festival,19.0,photograph,7.0,draw,5.0
+Surrey,49.1913,-122.849,paint,3.0,digital,3.0,modern,2.0
+London,51.5072,-0.1276,photograph,27.0,modern,18.0,sculptur,14.0
+Brampton,43.7315,-79.7624,draw,2.0,paint,1.0,modern,1.0
+Mexico City,19.4326,-99.1332,paint,13.0,sculptur,10.0,print,4.0
+Iztapalapa,19.3467,-99.0799,arte,1.0,visual art,0.0,fine art,0.0
+Guadalajara,20.6752,-103.3473,fair,2.0,glass,1.0,visual art,0.0
+Puebla,19.0414,-98.2063,contemporary,5.0,arte,5.0,architectur,4.0
+Aguascalientes,21.8853,-102.2916,arte,5.0,contemporáne,4.0,digital,1.0
+Hermosillo,29.073,-110.9559,arte,56.0,contemporáne,15.0,modern,5.0
+Juarez,31.6904,-106.4245,arte,14.0,pintura,12.0,design,7.0
+Zapopan,20.672,-103.4165,arte,7.0,paint,3.0,contemporary,1.0
+Gustavo,19.4873,-99.1236,arte,5.0,pintura,3.0,mural,2.0
+Mexicali,32.6245,-115.4523,arte,4.0,fotografía,2.0,digital,1.0
+Culiacán,24.8091,-107.394,arte,13.0,pintura,4.0,madera,3.0
+Acapulco,16.864,-99.8823,arte,73.0,artesanía,33.0,a mano,9.0
+Guadalupe,16.265,-61.551,feria,6.0,arte,2.0,digital,1.0
+Tlalnepantla,19.5345,-99.1907,arte,9.0,diseño,2.0,escultura,2.0
+Matamoros,25.869,-97.5027,arte,26.0,contemporáne,3.0,festival,2.0
+Venustiano Carranza,19.4306,-99.095,arte,7.0,digital,2.0,pintura,2.0
+Apodaca,25.7765,-100.1859,arte,15.0,festival,1.0,fotografía,1.0
+Veracruz,19.1738,-96.1342,arte,39.0,artesanía,3.0,digital,2.0
+San Nicolás,12.4228,-69.8776,mural,11.0,arte,4.0,pintura,3.0
+Coyoacan,19.3487,-99.1629,arte,46.0,contemporáne,5.0,arquitectura,4.0
+Cancun,21.1619,-86.8515,sculptur,8.0,paint,6.0,design,3.0
+Querétaro,20.5888,-100.3899,arte,38.0,interactiv,3.0,diseño,3.0
+Torreón,25.5428,-103.4068,arte,12.0,pintura,2.0,retrato,1.0
+Chimalhuacán,19.4314,-98.9582,arte,11.0,digital,8.0,retrato,2.0
+Xochimilco,19.2572,-99.103,festival,1.0,inmersiv,1.0,arte,1.0
+Xalapa,19.5438,-96.9102,arte,3.0,digital,2.0,arte visual,1.0
+Azcapotzalco,19.4847,-99.1887,arte,9.0,escultura,2.0,visual art,0.0
+Tonalá,20.6237,-103.2414,arte,16.0,cerámic,7.0,electrónic,3.0
+Benito Juárez,19.2354,-99.0927,arte,4.0,cuadro,1.0,fiesta,1.0
+Toluca,19.2826,-99.6557,arte,33.0,escultura,8.0,diseño,6.0
+Durango,24.0248,-104.6608,arte,42.0,mural,22.0,modern,16.0
+Tuxtla,16.7516,-93.103,arte,7.0,jardin,2.0,contemporáne,2.0
+Morelia,19.706,-101.195,arte,13.0,artesanía,4.0,contemporáne,3.0
+Tlaquepaque,20.6025,-103.3362,arte,35.0,escultura,7.0,artesanía,5.0
+Tlalpan,19.2791,-99.2114,arte,16.0,grabado,5.0,electrónic,1.0
+Reynosa,26.0508,-98.2979,arte,9.0,pintura,2.0,mural,1.0
+Naucalpan,19.4737,-99.2337,jardin,2.0,escultura,2.0,arte,2.0
+Mérida,20.9674,-89.5926,arte,24.0,contemporáne,4.0,diseño,4.0
+Chihuahua,28.6434,-106.0588,arte,3.0,fotografía,2.0,electronic,1.0
+Monterrey,25.6866,-100.3161,fair,1.0,艺术,1.0,visual art,0.0
+Neza,19.3995,-98.9897,arte,12.0,feria,5.0,fiesta,2.0
+Nuevo Laredo,27.4779,-99.5496,arte,6.0,grabado,1.0,contemporáne,1.0
+Iztacalco,19.3948,-99.0977,arte,24.0,interactiv,5.0,photograph,4.0
+Villahermosa,17.9895,-92.9475,feria,9.0,arte,7.0,modern,3.0
+Xico,19.4248,-97.0042,arte,27.0,interactiv,18.0,digital,3.0
+Celaya,20.528,-100.8113,arte,21.0,artesanía,5.0,festival,2.0
+Limon,9.9913,-83.0415,festival,4.0,ethnic,2.0,print,1.0
+Panama,8.9824,-79.5199,contemporary,12.0,paint,7.0,fine art,4.0
+San Salvador,13.6929,-89.2182,sculptur,5.0,design,3.0,festival,3.0
+Jose,9.9281,-84.0907,design,5.0,sculptur,5.0,contemporary,3.0
+Belize,17.5046,-88.1962,paint,11.0,wood,11.0,craft,8.0
+Guatemala City,14.6349,-90.5069,modern,7.0,contemporary,6.0,architectur,5.0
+Leon,12.4343,-86.8805,arte,23.0,architectur,6.0,paint,4.0
+Managua,12.115,-86.2362,folk,2.0,paint,1.0,print,1.0
+Tegucigalpa,14.065,-87.1715,paint,5.0,fine art,2.0,draw,2.0
+San Pedro Sula,15.5039,-88.0139,contemporary,4.0,sculptur,3.0,paint,2.0
+Fortaleza,-3.7327,-38.527,festival,4.0,arte,4.0,visual art,0.0
+Belo Horizonte,-19.9191,-43.9387,design,19.0,contemporary,9.0,modern,9.0
+Sao Paulo,-23.5558,-46.6396,arte,14.0,contemporary,12.0,design,12.0
+Salvador,-12.9777,-38.5016,architectur,21.0,paint,15.0,arte,14.0
+Rio de Janeiro,-22.9068,-43.1729,modern,6.0,fine art,4.0,folk,3.0
+Curitiba,-25.4269,-49.2652,arte,7.0,design,3.0,photograph,3.0
+Belem,-1.4563,-48.5013,contemporary,8.0,arte,7.0,paint,3.0
+Porto Alegre,-30.0368,-51.209,festival,4.0,contemporary,2.0,arte,2.0
+Manaus,-3.119,-60.0217,garden,5.0,festival,2.0,visual art,1.0
+Recife,-8.0578,-34.8829,arte,8.0,paint,7.0,modern,4.0
+Cali,3.4516,-76.532,modern,5.0,architectur,5.0,design,4.0
+Barranquilla,11.0041,-74.807,architectur,6.0,immers,4.0,paint,3.0
+Medellin,6.2476,-75.5658,contemporary,15.0,modern,12.0,sculptur,7.0
+Bucaramanga,7.1193,-73.1227,contemporary,7.0,arte,7.0,modern,5.0
+Cartagena,10.3932,-75.4832,design,13.0,modern,8.0,paint,2.0
+Bogota,4.711,-74.0721,paint,11.0,contemporary,10.0,modern,7.0
+Pereira,4.8087,-75.6906,arte,15.0,mural,5.0,sculptur,5.0
+Florianopolis,-27.5969,-48.5468,architectur,7.0,electronic,3.0,print,2.0
+Niteroi,-22.8807,-43.1014,contemporary,8.0,modern,4.0,design,2.0
+Joao Pessoa,-7.1188,-34.8814,festival,1.0,visual art,0.0,fine art,0.0
+Campo Grande,-20.4649,-54.6218,arte,11.0,modern,9.0,architectur,9.0
+Serra,-20.128,-40.3081,paint,17.0,design,5.0,contemporary,4.0
+Goytacazes,-21.7624,-41.3187,contemporary,2.0,paint,1.0,architectur,1.0
+Betim,-19.9697,-44.2032,garden,3.0,contemporary,1.0,modern,1.0
+Salta,-24.7821,-65.4232,paint,4.0,contemporary,4.0,architectur,4.0
+Mar del Plata,-38.0055,-57.5426,contemporary,9.0,architectur,8.0,modern,3.0
+La Plata,-34.9205,-57.9536,design,4.0,fine art,3.0,contemporary,3.0
+Resistencia,-27.4519,-58.9856,fotografia,2.0,craft,1.0,festival,1.0
+Cordoba,-31.4201,-64.1888,architectur,19.0,arte,9.0,photograph,6.0
+Rosario,-32.9587,-60.693,fine art,1.0,garden,1.0,contemporáne,1.0
+San Miguel de Tucum,-26.8083,-65.2176,paint,8.0,contemporary,7.0,modern,5.0
+Mendoza,-32.8895,-68.8458,arte,8.0,contemporary,6.0,paint,4.0
+Buenos Aires,-34.6037,-58.3816,arte,19.0,modern,12.0,contemporary,11.0
+Natal,-5.7842,-35.2,arte,19.0,craft,14.0,paint,6.0
+Goiania,-16.6868,-49.2708,contemporary,1.0,festival,1.0,visual art,0.0
+Brasilia,-15.7975,-47.8919,paint,1.0,digital,1.0,architectur,1.0
+Sao Luis,-2.5307,-44.2989,festival,24.0,arte,22.0,sculptur,20.0
+Maceio,-9.666,-35.7352,folk,3.0,festival,3.0,architectur,2.0
+Maracaibo,10.641,-71.6074,contemporary,4.0,arte,3.0,photograph,2.0
+Caracas,10.4806,-66.9036,contemporary,26.0,fine art,19.0,arte,17.0
+Valencia,39.4699,-0.3763,paint,14.0,arte,12.0,festival,9.0
+Maracay,10.2442,-67.6066,festival,2.0,contemporary,1.0,arte,1.0
+Barquisimeto,10.0678,-69.3474,craft,2.0,architectur,2.0,glass,2.0
+Santa Marta,11.2404,-74.211,street art,8.0,garden,4.0,architectur,3.0
+Neiva,2.9345,-75.2809,festival,20.0,folk,8.0,sculptur,6.0
+Pasto,1.2059,-77.2858,architectur,4.0,festival,3.0,design,2.0
+Manizales,5.063,-75.5028,festival,22.0,arte,15.0,fair,9.0
+Ibague,4.4447,-75.2424,contemporary,11.0,arte,8.0,folk,6.0
+Santiago,-33.4489,-70.6693,arte,8.0,contemporary,7.0,interactiv,7.0
+Antofagasta,-23.6509,-70.3975,fine art,5.0,paint,5.0,design,2.0
+Valparaiso,-33.0473,-71.6127,street art,10.0,fine art,5.0,mural,5.0
+Puente Alto,-33.6029,-70.5771,contemporary,3.0,design,3.0,photograph,3.0
+Cuenca,-2.9001,-79.0059,arte,13.0,modern,9.0,photograph,6.0
+Guayaquil,-2.1891,-79.8899,modern,10.0,contemporary,5.0,contemporáne,5.0
+Quito,-0.2233,-78.5141,paint,9.0,sculptur,5.0,modern,3.0
+La Paz,-16.4897,-68.1193,paint,22.0,contemporary,9.0,modern,9.0
+Sierra,-17.7981,-63.1925,arte,15.0,paint,6.0,folk,4.0
+Sucre,-19.0353,-65.2592,print,5.0,paint,4.0,architectur,3.0
+Cochabamba,-17.414,-66.1653,contemporary,10.0,arte,7.0,architectur,3.0
+Iquitos,-3.7438,-73.2516,craft,4.0,architectur,4.0,photograph,3.0
+Piura,-5.1783,-80.6549,festival,4.0,arte,3.0,architectur,2.0
+Chimbote,-9.0633,-78.589,design,5.0,architectur,5.0,clay,4.0
+Huancayo,-12.0686,-75.2103,craft,7.0,festival,4.0,fair,3.0
+Lima,-12.0467,-77.0431,contemporary,10.0,design,7.0,craft,6.0
+Trujillo,-8.1158,-79.0257,festival,13.0,contemporary,6.0,arte,5.0
+Callao,-12.0512,-77.1257,graffiti,9.0,contemporary,4.0,festival,4.0
+Chiclayo,-6.7713,-79.8452,clay,41.0,festival,9.0,fair,6.0
+Arequipa,-16.4057,-71.5401,architectur,3.0,arte,3.0,paint,2.0
+Montevideo,-34.9055,-56.1851,arte,5.0,decorativ,4.0,modern,3.0
+Paramaribo,5.852,-55.2038,modern,96.0,paint,15.0,contemporary,11.0
+Georgetown,6.8013,-58.1551,wood,15.0,garden,14.0,ethnic,10.0
+Ciudad del Este,-25.4987,-54.6637,electronic,6.0,craft,4.0,architectur,4.0
+Asuncion,-25.2637,-57.5759,visual art,0.0,fine art,0.0,illustrat,0.0
+Leipzig,51.3397,12.3731,print,16.0,photograph,9.0,architectur,7.0
+Nuremberg,49.4543,11.0746,street art,12.0,contemporary,9.0,modern,8.0
+Stuttgart,48.7758,9.1829,contemporary,7.0,design,7.0,garden,7.0
+Dresden,51.0504,13.7373,paint,12.0,contemporary,12.0,sculptur,9.0
+Düsseldorf,51.223,6.7825,contemporary,20.0,architectur,6.0,photograph,6.0
+Berlin,52.52,13.405,paint,23.0,sculptur,18.0,contemporary,15.0
+Cologne,50.9375,6.9603,design,6.0,street art,6.0,print,3.0
+Munich,48.1351,11.582,modern,9.0,sculptur,5.0,arte,5.0
+Frankfurt,50.1109,8.6821,contemporary,9.0,modern,8.0,architectur,3.0
+Hamburg,53.5488,9.9872,contemporary,8.0,photograph,7.0,sculptur,3.0
+Montpellier,43.6109,3.8761,street art,7.0,graffiti,7.0,contemporary,6.0
+Lille,50.6244,3.0679,photograph,11.0,architectur,10.0,contemporary,9.0
+Strasbourg,48.5734,7.7521,paint,14.0,contemporary,11.0,modern,11.0
+Nantes,47.2184,-1.5536,contemporary,9.0,print,5.0,design,4.0
+Bordeaux,44.8416,-0.5811,street art,5.0,contemporary,3.0,graffiti,3.0
+Marseille,43.2965,5.3698,modern,11.0,paint,7.0,sculptur,7.0
+Paris,48.8566,2.3522,immers,109.0,contemporary,53.0,paint,47.0
+Nice,43.7102,7.262,modern,16.0,photograph,14.0,contemporary,10.0
+Lyon,45.764,4.8357,contemporary,11.0,fine art,7.0,paint,6.0
+Toulouse,43.6048,1.4428,garden,12.0,jardin,10.0,contemporary,6.0
+Milan,45.4642,9.19,design,8.0,photograph,8.0,contemporary,6.0
+Palermo,38.1157,13.3615,arte,15.0,fine art,3.0,contemporary,3.0
+Rome,41.8967,12.4822,modern,45.0,contemporary,17.0,paint,9.0
+Naples,40.8518,14.2681,contemporary,16.0,paint,15.0,arte,7.0
+Turin,45.0703,7.6869,modern,16.0,arte,10.0,contemporary,9.0
+Nottingham,52.954,-1.155,contemporary,12.0,wood,8.0,craft,4.0
+Sheffield,53.3811,-1.4701,contemporary,10.0,festival,9.0,print,7.0
+Birmingham,52.4862,-1.8904,print,8.0,photograph,8.0,architectur,7.0
+Liverpool,53.4084,-2.9916,festival,12.0,immers,9.0,paint,8.0
+Bristol,51.4545,-2.5879,street art,6.0,photograph,4.0,festival,4.0
+Leeds,53.8008,-1.5491,sculptur,22.0,contemporary,10.0,design,6.0
+Leicester,52.6369,-1.1398,garden,9.0,print,7.0,design,5.0
+Glasgow,55.8617,-4.2583,contemporary,15.0,modern,12.0,print,9.0
+Edinburgh,55.9533,-3.1883,modern,18.0,contemporary,13.0,print,10.0
+Seville,37.3891,-5.9845,festival,12.0,arte,8.0,paint,5.0
+Zaragoza,41.6474,-0.8861,paint,5.0,arte,5.0,contemporary,4.0
+Barcelona,41.3874,2.1686,contemporary,11.0,modern,9.0,paint,6.0
+Madrid,40.4168,-3.7038,contemporary,27.0,fair,10.0,arte,5.0
+Kyiv,50.4504,30.5245,fair,5.0,paint,4.0,mural,3.0
+Dnipro,48.4647,35.0462,paint,9.0,architectur,4.0,sculptur,4.0
+Lviv,49.8397,24.0297,craft,6.0,contemporary,4.0,paint,3.0
+Kharkiv,50.002,36.3074,paint,3.0,20th century,3.0,design,3.0
+Odessa,46.4702,30.7306,fine art,6.0,paint,4.0,contemporary,4.0
+Florence,43.77,11.2577,contemporary,7.0,festival,6.0,sculptur,3.0
+Verona,45.4384,10.9917,paint,9.0,arte,9.0,contemporary,8.0
+Genoa,44.4071,8.9347,paint,10.0,sculptur,6.0,contemporary,5.0
+Trieste,45.6495,13.7768,street art,9.0,design,6.0,garden,5.0
+Bologna,44.4949,11.3426,modern,7.0,arte,7.0,paint,4.0
+Gdansk,54.352,18.6466,print,4.0,contemporary,4.0,design,4.0
+Bydgoszcz,53.1235,18.0084,garden,8.0,modern,5.0,street art,4.0
+Szczecin,53.4285,14.5528,architectur,8.0,contemporary,7.0,garden,6.0
+Katowice,50.2649,19.0238,modern,10.0,architectur,9.0,paint,6.0
+Lublin,51.2509,22.5747,photograph,9.0,garden,8.0,folk,7.0
+Malaga,36.7178,-4.4256,paint,16.0,contemporary,15.0,glass,8.0
+Murcia,37.9922,-1.1307,paint,6.0,fine art,4.0,garden,4.0
+Bilbao,43.2634,-2.9348,mural,5.0,modern,4.0,paint,3.0
+Mallorca,39.5727,2.6569,contemporary,8.0,paint,7.0,sculptur,7.0
+Palmas,28.1009,-15.4654,paint,8.0,modern,7.0,garden,5.0
+Krakow,50.0647,19.945,paint,19.0,contemporary,14.0,festival,9.0
+Wroclaw,51.1093,17.0386,contemporary,32.0,architectur,17.0,modern,11.0
+Lodz,51.7593,19.4559,architectur,5.0,street art,5.0,wood,4.0
+Poznan,52.4057,16.9313,architectur,2.0,garden,1.0,immers,1.0
+Warsaw,52.2297,21.0122,sculptur,15.0,contemporary,2.0,modern,2.0
+Rotterdam,51.9244,4.4777,contemporary,19.0,architectur,16.0,design,15.0
+Hague,52.0705,4.3007,paint,19.0,modern,16.0,contemporary,7.0
+Amsterdam,52.3676,4.9041,contemporary,9.0,photograph,9.0,paint,8.0
+Utrecht,52.0907,5.1214,design,13.0,paint,10.0,contemporary,7.0
+Eindhoven,51.4231,5.4623,graffiti,17.0,street art,5.0,paint,4.0
+Napoca,46.7712,23.6236,garden,13.0,contemporary,11.0,architectur,8.0
+Timisoara,45.7489,21.2087,street art,12.0,modern,11.0,architectur,10.0
+Constanta,44.1759,28.6519,festival,28.0,architectur,27.0,modern,26.0
+Bucharest,44.4268,26.1025,contemporary,24.0,paint,7.0,design,3.0
+Iași,47.1585,27.6014,paint,10.0,garden,5.0,design,3.0
+Antwerp,51.2213,4.4051,contemporary,14.0,print,10.0,photograph,9.0
+Brussels,50.8476,4.3572,contemporary,18.0,photograph,9.0,design,7.0
+Prague,50.0755,14.4378,contemporary,4.0,decorativ,3.0,modern,3.0
+Ghent,51.05,3.7303,contemporary,7.0,paint,6.0,graffiti,6.0
+Brno,49.1951,16.6068,festival,12.0,design,10.0,contemporary,7.0
+Gothenburg,57.7089,11.9746,contemporary,12.0,paint,10.0,design,9.0
+Stockholm,59.3293,18.0686,modern,13.0,garden,8.0,sculptur,6.0
+Malmo,55.605,13.0038,modern,15.0,contemporary,14.0,design,9.0
+Lisbon,38.7223,-9.1393,contemporary,13.0,paint,10.0,modern,10.0
+Patra,38.2466,21.7346,folk,3.0,street art,3.0,modern,2.0
+Athens,37.9838,23.7275,contemporary,16.0,modern,7.0,design,5.0
+Porto,41.1579,-8.6291,paint,13.0,contemporary,10.0,illustrat,9.0
+Thessaloniki,40.6401,22.9444,contemporary,27.0,modern,15.0,design,12.0
+Zurich,47.3769,8.5417,contemporary,9.0,design,5.0,photograph,4.0
+Basel,47.5596,7.5886,contemporary,11.0,fair,11.0,paint,7.0
+Minsk,53.9006,27.559,paint,6.0,contemporary,4.0,folk,3.0
+Belgrade,44.8125,20.4612,contemporary,23.0,paint,15.0,photograph,12.0
+Geneva,46.2044,6.1432,paint,3.0,contemporary,3.0,fine art,2.0
+Helsinki,60.1699,24.9384,modern,7.0,architectur,6.0,photograph,5.0
+Copenhagen,55.6761,12.5683,design,23.0,paint,15.0,sculptur,10.0
+Plovdiv,42.1354,24.7453,paint,24.0,contemporary,8.0,portrait,5.0
+Sofia,42.6977,23.3219,contemporary,37.0,paint,15.0,modern,12.0
+Aarhus,56.1629,10.2039,arte,9.0,contemporary,8.0,modern,8.0
+Zagreb,45.815,15.9819,paint,14.0,contemporary,13.0,modern,12.0
+Oslo,59.9139,10.7522,sculptur,15.0,design,8.0,contemporary,5.0
+Bratislava,48.1486,17.1077,design,4.0,contemporary,3.0,architectur,3.0
+Kosice,48.7164,21.2611,street art,52.0,mural,24.0,festival,7.0
+Bergen,60.3913,5.3221,craft,13.0,draw,11.0,contemporary,10.0
+Graz,47.0679,15.4417,modern,12.0,contemporary,8.0,folk,7.0
+Linz,48.3069,14.2859,modern,16.0,festival,15.0,electronic,8.0
+Budapest,47.4979,19.0402,contemporary,17.0,street art,17.0,photograph,14.0
+Vienna,48.2081,16.3713,contemporary,26.0,paint,15.0,design,15.0
+Debrecen,47.5289,21.6254,architectur,16.0,contemporary,15.0,garden,13.0
+Dublin,53.3498,-6.2603,modern,12.0,paint,7.0,decorativ,6.0
+Tbilisi,41.6938,44.8015,print,13.0,paint,9.0,fine art,7.0
+Sarajevo,43.8563,18.4131,contemporary,7.0,design,4.0,fine art,3.0
+Yerevan,40.1872,44.5152,architectur,17.0,modern,13.0,contemporary,11.0
+Cork,51.8985,-8.4756,paint,5.0,contemporary,4.0,photograph,4.0
+Tirana,41.3275,19.8187,paint,8.0,contemporary,5.0,street art,5.0
+Chisinau,47.0105,28.8638,paint,13.0,festival,3.0,craft,1.0
+Ljubljana,46.0569,14.5058,architectur,10.0,design,9.0,photograph,7.0
+Vilnius,54.6872,25.2797,contemporary,17.0,paint,7.0,modern,3.0
+Riga,56.9677,24.1056,contemporary,19.0,design,7.0,paint,6.0
+Skopje,41.9981,21.4254,contemporary,12.0,sculptur,5.0,draw,2.0
+Pristina,42.6629,21.1655,contemporary,9.0,paint,2.0,fair,2.0
+Reykjavík,64.147,-21.9408,photograph,24.0,contemporary,23.0,sculptur,20.0
+Tallinn,59.437,24.7536,design,14.0,contemporary,7.0,architectur,4.0
+Omsk,54.9914,73.3645,paint,21.0,architectur,11.0,fine art,8.0
+Samara,53.2038,50.1606,design,6.0,garden,6.0,paint,4.0
+Kazan,55.7879,49.1233,folk,5.0,paint,4.0,modern,3.0
+Rostov,47.2357,39.7015,paint,15.0,fine art,12.0,visual art,4.0
+Chelyabinsk,55.1644,61.4368,paint,7.0,portrait,5.0,contemporary,3.0
+Orenburg,51.7682,55.097,fine art,2.0,craft,1.0,portrait,1.0
+Irkutsk,52.2855,104.289,paint,17.0,craft,11.0,modern,10.0
+Vladivostok,43.1332,131.9113,contemporary,8.0,paint,7.0,print,2.0
+Ryazan,54.6095,39.7126,paint,10.0,draw,5.0,folk,3.0
+Barnaul,53.3497,83.7836,festival,6.0,folk,3.0,modern,2.0
+Khabarovsk,48.4814,135.0721,paint,6.0,visual art,0.0,fine art,0.0
+Yaroslavl,57.6261,39.8845,paint,27.0,architectur,6.0,fine art,2.0
+Ulyanovsk,54.3187,48.3978,paint,45.0,draw,7.0,portrait,7.0
+Voronezh,51.6683,39.1919,clay,10.0,craft,6.0,folk,6.0
+Izhevsk,56.8619,53.2324,paint,11.0,modern,3.0,fine art,2.0
+Krasnodar,45.036,38.9746,paint,7.0,print,3.0,sculptur,3.0
+Tolyatti,53.5085,49.4182,paint,8.0,fine art,7.0,contemporary,5.0
+Konya,37.8746,32.4932,garden,17.0,architectur,16.0,wood,9.0
+Kayseri,38.7205,35.4826,festival,11.0,modern,6.0,architectur,5.0
+Diyarbakir,37.925,40.211,garden,15.0,paint,11.0,architectur,9.0
+Gaziantep,37.066,37.3781,festival,31.0,craft,9.0,modern,9.0
+Antalya,36.8969,30.7133,modern,8.0,glass,1.0,sculptur,1.0
+Krasnoyarsk,56.0153,92.8932,paint,6.0,wood,4.0,sculptur,4.0
+Saratov,51.5462,46.0154,paint,14.0,fine art,7.0,portrait,5.0
+Perm,58.0092,56.227,contemporary,3.0,20th century,3.0,design,3.0
+Volgograd,48.708,44.5133,paint,26.0,portrait,23.0,draw,12.0
+Ufa,54.7348,55.9579,paint,60.0,portrait,19.0,draw,15.0
+Taraz,42.8984,71.398,architectur,7.0,modern,5.0,interactiv,5.0
+Astana,51.1655,71.4272,fine art,3.0,paint,2.0,contemporary,2.0
+Almaty,43.238,76.8829,contemporary,12.0,paint,5.0,sculptur,4.0
+Karagandy,49.8047,73.1094,fine art,5.0,paint,5.0,print,2.0
+Shymkent,42.3205,69.5876,sculptur,4.0,craft,3.0,modern,3.0
+Naberezhnye Chelny,55.7306,52.3893,design,50.0,architectur,44.0,modern,6.0
+Tyumen,57.1553,65.5619,paint,8.0,portrait,7.0,fine art,4.0
+Tomsk,56.4884,84.948,arte,1.0,visual art,0.0,fine art,0.0
+Astrakhan,46.3586,48.0569,draw,3.0,paint,3.0,design,3.0
+Lipetsk,52.6122,39.5981,paint,18.0,contemporary,5.0,portrait,3.0
+Penza,53.2273,45,print,2.0,paint,1.0,modern,1.0
+Yekaterinburg,56.8431,60.6454,modern,22.0,architectur,22.0,photograph,20.0
+Moscow,55.7558,37.6173,modern,10.0,design,10.0,photograph,10.0
+Novosibirsk,54.9833,82.8964,architectur,13.0,paint,9.0,wood,7.0
+Petersburg,59.9311,30.3609,paint,9.0,contemporary,7.0,design,6.0
+Novgorod,58.5256,31.2742,paint,29.0,street art,10.0,portrait,9.0
+Mersin,36.8121,34.6415,festival,22.0,modern,8.0,architectur,7.0
+Uskudar,41.0322,29.0319,craft,4.0,immers,4.0,design,3.0
+Eskisehir,39.7667,30.5256,architectur,24.0,glass,16.0,modern,15.0
+Sanliurfa,37.1674,38.7955,sculptur,6.0,architectur,5.0,glass,4.0
+Malatya,38.3554,38.3335,festival,52.0,modern,21.0,architectur,10.0
+Muratpasa,36.8916,30.765,festival,3.0,contemporary,1.0,modern,1.0
+Baku,40.4093,49.8671,contemporary,23.0,architectur,19.0,design,16.0
+Sumqayit,40.5855,49.6317,modern,2.0,photograph,2.0,festival,2.0
+Izmir,38.4237,27.1428,paint,10.0,sculptur,8.0,photograph,7.0
+Istanbul,41.0082,28.9784,contemporary,17.0,modern,17.0,design,13.0
+Ankara,39.9334,32.8597,contemporary,9.0,architectur,7.0,folk,5.0
+Bursa,40.1885,29.061,photograph,5.0,glass,3.0,design,1.0
+Adana,36.9914,35.3308,architectur,10.0,festival,6.0,modern,4.0
+南京,32.0584,118.7965,艺术,33.0,当代,5.0,绘画,4.0
+成都,30.5723,104.0665,艺术,77.0,当代,16.0,现代,3.0
+武汉,30.5928,114.3052,艺术,60.0,当代,12.0,油画,2.0
+东莞,23.0207,113.7518,艺术,20.0,绘画,7.0,当代,2.0
+重庆,29.5657,106.5512,艺术,54.0,当代,29.0,油画,18.0
+济南,36.6518,117.1201,艺术,70.0,绘画,9.0,沉浸式,5.0
+汕头,23.3535,116.6822,艺术,26.0,民族,4.0,当代,2.0
+泰安,36.1999,117.0884,visual art,0.0,fine art,0.0,illustrat,0.0
+郑州,34.7472,113.6249,visual art,0.0,fine art,0.0,illustrat,0.0
+苏州,31.2983,120.5832,visual art,0.0,fine art,0.0,illustrat,0.0
+青岛,36.0662,120.383,摄影,28.0,艺术,27.0,当代,5.0
+昆明,24.8797,102.8332,当代,1.0,visual art,0.0,fine art,0.0
+杭州,30.2741,120.1552,艺术,11.0,油画,1.0,工艺,1.0
+沈阳,41.8048,123.433,建筑,1.0,visual art,0.0,fine art,0.0
+石家庄,38.0428,114.5143,艺术,14.0,20世纪,4.0,绘画,1.0
+兰州,36.0614,103.8342,艺术,95.0,油画,26.0,设计,17.0
+乌鲁木齐,43.8266,87.6169,艺术,27.0,当代,7.0,设计,2.0
+长沙,28.2278,112.9389,艺术,64.0,雕塑,40.0,设计,18.0
+岳阳,29.3573,113.1292,艺术,22.0,油画,15.0,设计,2.0
+鞍山,41.1078,122.9946,艺术,23.0,当代,9.0,绘画,4.0
+邯郸,36.6256,114.5392,visual art,0.0,fine art,0.0,illustrat,0.0
+包头,40.6578,109.8402,艺术,9.0,雕塑,4.0,绘画,3.0
+淄博,36.8131,118.0548,艺术,63.0,现代,9.0,版画,7.0
+唐山,39.6304,118.1802,艺术,7.0,工艺,1.0,陶瓷,1.0
+合肥,31.8206,117.229,艺术,10.0,当代,2.0,设计,2.0
+十堰,S32.6292,110.798,艺术,28.0,当代,4.0,油画,3.0
+巴彦淖尔,40.7432,107.3877,艺术,26.0,民族,3.0,现代,1.0
+宁波,29.8683,121.544,艺术,7.0,当代,7.0,现代,1.0
+天水,34.5808,105.7249,艺术,8.0,民族,1.0,陶瓷,1.0
+濮阳,35.7619,115.0293,艺术,21.0,绘画,3.0,当代,2.0
+无锡,31.491,120.3124,visual art,0.0,fine art,0.0,illustrat,0.0
+厦门,24.4795,118.0895,艺术,5.0,当代,1.0,摄影,1.0
+天津,39.0851,117.1994,艺术,119.0,当代,16.0,绘画,9.0
+深圳市,22.5429,114.0596,艺术,22.0,当代,14.0,contemporary,1.0
+大同,40.0764,113.3,艺术,99.0,当代,52.0,建筑,12.0
+丽江,26.8565,100.2271,油画,1.0,visual art,0.0,fine art,0.0
+常熟,31.6538,120.7522,艺术,28.0,当代,2.0,现代,2.0
+福州,26.0742,119.2965,摄影,23.0,艺术,7.0,建筑,2.0
+贵阳,26.6476,106.6302,艺术,6.0,当代,2.0,visual art,0.0
+수원,37.2668,127.0015,visual art,0.0,fine art,0.0,illustrat,0.0
+Busan,35.21,129.0689,contemporary,4.0,photograph,4.0,draw,1.0
+Seoul,37.5519,126.9918,paint,13.0,contemporary,5.0,wood,5.0
+청주시,36.6283,127.4913,visual art,0.0,fine art,0.0,illustrat,0.0
+전주,35.8397,127.1293,visual art,0.0,fine art,0.0,illustrat,0.0
+안산시,37.3173,126.8209,visual art,0.0,fine art,0.0,illustrat,0.0
+Gimhae,35.2339,128.8845,visual art,0.0,fine art,0.0,illustrat,0.0
+천안,36.8136,127.1417,visual art,0.0,fine art,0.0,illustrat,0.0
+Jinju,35.1757,128.1178,visual art,0.0,fine art,0.0,illustrat,0.0
+광명,37.4419,126.8469,visual art,0.0,fine art,0.0,illustrat,0.0
+Hong Kong,22.3193,114.1694,festival,13.0,paint,8.0,contemporary,6.0
+高雄市,22.6273,120.3014,玻璃,12.0,glass,5.0,概念,3.0
+北市,25.033,121.5654,概念,4.0,雕塑,4.0,陶瓷,3.0
+臺南,22.9999,120.2269,陶瓷,2.0,雕塑,2.0,沉浸式,2.0
+臺中,24.1632,120.6747,雕塑,6.0,交互,1.0,visual art,0.0
+板橋,25.0114,121.4618,design,5.0,手作,2.0,概念,2.0
+員林,23.9596,120.5855,visual art,0.0,fine art,0.0,illustrat,0.0
+新竹,24.8138,120.9675,玻璃,4.0,glass,1.0,概念,1.0
+桃園,24.9917,121.299,design,8.0,概念,5.0,雕塑,4.0
+花蓮,23.9872,121.6016,visual art,0.0,fine art,0.0,illustrat,0.0
+Delhi,28.7041,77.1025,photograph,11.0,fair,9.0,paint,7.0
+Mumbai,19.076,72.8777,contemporary,32.0,modern,19.0,paint,15.0
+Kolkata,22.5744,88.3629,contemporary,18.0,paint,14.0,modern,11.0
+Chennai,13.0843,80.2705,paint,11.0,arte,11.0,contemporary,7.0
+Ahmedabad,23.0225,72.5714,contemporary,6.0,modern,6.0,fair,5.0
+Kanpur,26.4499,80.3319,paint,11.0,craft,2.0,draw,1.0
+Jaipur,26.9124,75.7873,craft,9.0,folk,8.0,paint,6.0
+Pune,18.5204,73.8567,paint,18.0,contemporary,16.0,craft,6.0
+Hyderabad,25.396,68.3578,modern,24.0,immers,18.0,contemporary,16.0
+Surat,21.1702,72.8311,arte,4.0,paint,3.0,design,3.0
+Muzaffarabad,34.3551,73.4769,craft,12.0,festival,11.0,immers,11.0
+Gujranwala,32.1877,74.1945,festival,9.0,immers,8.0,modern,7.0
+Quetta,30.1834,66.9987,craft,17.0,immers,15.0,festival,10.0
+Islamabad,33.6995,73.0363,design,4.0,contemporary,3.0,modern,2.0
+Peshawar,34.0151,71.5249,paint,4.0,sculptur,4.0,garden,3.0
+Battagram,34.6724,73.0243,fair,3.0,visual art,0.0,fine art,0.0
+Dhaka,23.8041,90.4152,contemporary,14.0,fine art,11.0,paint,6.0
+Chittagong,22.3752,91.8349,craft,8.0,folk,7.0,contemporary,6.0
+Khulna,22.8373,89.54,photograph,6.0,contemporary,4.0,design,3.0
+Rangpur,25.7494,89.2611,architectur,5.0,20th century,2.0,design,2.0
+Rajshahi,24.3746,88.6004,sculptur,14.0,craft,3.0,design,2.0
+Kathmandu,27.7103,85.3222,contemporary,17.0,paint,13.0,architectur,12.0
+Biratnagar,26.4525,87.2718,paint,2.0,craft,2.0,modern,2.0
+Patan,27.6588,85.3247,architectur,11.0,craft,9.0,paint,5.0
+Pokhara,28.2096,83.9856,immers,14.0,paint,8.0,craft,8.0
+Janakpur,26.7271,85.9407,festival,36.0,craft,19.0,paint,17.0
+Herat,34.3529,62.204,architectur,6.0,craft,5.0,photograph,4.0
+Balkh,36.7551,66.8975,photograph,6.0,craft,4.0,decorativ,2.0
+Jalal,34.4284,70.4578,photograph,5.0,immers,3.0,craft,2.0
+Kabul,34.5553,69.2075,paint,11.0,modern,3.0,contemporary,1.0
+Khost,33.3338,69.9372,immers,1.0,visual art,0.0,fine art,0.0
+Mazar,36.6926,67.118,arte,2.0,draw,1.0,glass,1.0
+Kunduz,36.7286,68.8681,photograph,5.0,craft,3.0,architectur,2.0
+Multan,30.1864,71.4886,architectur,25.0,craft,14.0,modern,12.0
+Lahore,31.5204,74.3587,paint,3.0,contemporary,3.0,craft,1.0
+Karachi,24.8607,67.0011,photograph,4.0,contemporary,3.0,arte,3.0
+Rawalpindi,33.5651,73.0169,paint,7.0,electronic,3.0,fine art,2.0
+Faisalabad,31.4504,73.135,modern,4.0,illustrat,3.0,draw,3.0
+Tehran,35.7219,51.3347,contemporary,10.0,modern,5.0,design,5.0
+Shiraz,29.5926,52.5836,paint,6.0,wood,5.0,architectur,4.0
+Tabriz,38.0792,46.2887,festival,32.0,architectur,26.0,design,16.0
+Qom,34.6416,50.8746,paint,3.0,craft,2.0,wood,1.0
+Isfahan,32.6539,51.666,craft,17.0,fine art,8.0,paint,7.0
+Mashhad,36.2972,59.6067,paint,6.0,architectur,3.0,design,2.0
+Dehiwala,6.8301,79.8801,fair,5.0,craft,3.0,festival,3.0
+Colombo,6.9271,79.8612,contemporary,9.0,modern,9.0,draw,7.0
+Bhutan,27.4716,89.6386,festival,13.0,photograph,8.0,modern,7.0
+Maldives,4.1753,73.5091,craft,5.0,contemporary,5.0,photograph,4.0
+Moratuwa,6.7881,79.8913,architectur,2.0,portrait,1.0,garden,1.0
+Bandung,-6.9175,107.6191,modern,4.0,digital,2.0,sculptur,2.0
+Surabaya,-7.2575,112.7521,festival,2.0,modern,1.0,visual art,0.0
+Bekasi,-6.2734,106.9831,immers,8.0,interactiv,5.0,digital,1.0
+Medan,3.5952,98.6722,architectur,11.0,design,5.0,ethnic,3.0
+Jakarta,-6.1944,106.8229,contemporary,24.0,modern,11.0,design,7.0
+Quy Nhon,13.783,109.2197,festival,13.0,architectur,7.0,ethnic,5.0
+Hue,16.4637,107.5909,paint,11.0,contemporary,4.0,design,4.0
+Can Tho,10.0452,105.7469,garden,7.0,craft,2.0,immers,2.0
+Vung Tau,10.4114,107.1362,garden,2.0,craft,1.0,architectur,1.0
+Nha Trang,12.2529,109.1899,architectur,5.0,draw,2.0,garden,2.0
+Ho Chi Minh,10.8231,106.6297,contemporary,11.0,ethnic,11.0,paint,7.0
+Hai Phong,20.8449,106.6881,festival,3.0,architectur,2.0,fine art,1.0
+Hanoi,21.0278,105.8342,ethnic,11.0,contemporary,4.0,photograph,3.0
+Bien Hoa,10.9574,106.8427,garden,6.0,design,2.0,arte,2.0
+Da Nang,16.0544,108.2022,sculptur,6.0,architectur,5.0,garden,4.0
+Buda,7.5377,125.3247,visual art,0.0,fine art,0.0,illustrat,0.0
+Caloocan,14.7566,121.045,visual art,0.0,fine art,0.0,illustrat,0.0
+Davao,7.0736,125.611,festival,5.0,craft,2.0,photograph,2.0
+Quezon,14.676,121.0437,interactiv,5.0,paint,3.0,contemporary,3.0
+Manila,14.5995,120.9842,contemporary,15.0,draw,6.0,paint,6.0
+Petaling Jaya,3.1279,101.5945,fine art,5.0,visual art,4.0,paint,3.0
+Shah Alam,3.0733,101.5185,festival,8.0,digital,6.0,draw,4.0
+Ipoh,4.6005,101.0758,festival,12.0,visual art,4.0,paint,3.0
+Subang Jaya,3.0567,101.5851,paint,2.0,glass,1.0,visual art,0.0
+Kuching,1.5534,110.3595,design,2.0,paint,1.0,craft,1.0
+Chiang Mai,18.7883,98.9853,contemporary,13.0,craft,12.0,paint,10.0
+Hat Yai,7.0086,100.4747,immers,9.0,architectur,8.0,interactiv,6.0
+Pak-Kret,13.9151,100.4993,visual art,0.0,fine art,0.0,illustrat,0.0
+Nakhon,14.9738,102.0837,folk,3.0,photograph,3.0,modern,2.0
+Nonthaburi,13.862,100.4959,architectur,4.0,wood,2.0,sculptur,2.0
+Bangkok,13.7563,100.5018,design,17.0,photograph,11.0,contemporary,9.0
+Chon,13.2017,101.2524,print,1.0,garden,1.0,interactiv,1.0
+Udon,17.4294,102.9896,photograph,2.0,garden,2.0,draw,1.0
+Samut Prakan,13.5954,100.6072,design,4.0,glass,3.0,fine art,2.0
+Townships,15.8108,98.3088,paint,6.0,contemporary,4.0,visual art,3.0
+Mawlamyine,16.4543,97.644,architectur,15.0,wood,5.0,photograph,4.0
+Yangon,16.8409,96.1735,design,9.0,contemporary,8.0,fair,6.0
+Pyi,19.7633,96.0785,garden,5.0,festival,4.0,paint,3.0
+Mandalay,21.9588,96.0891,design,5.0,photograph,5.0,wood,4.0
+Phnom,11.5564,104.9282,contemporary,14.0,festival,5.0,paint,4.0
+Siem Reap,13.3633,103.8564,modern,23.0,craft,13.0,paint,11.0
+Sihanouk,10.6268,103.5116,ethnic,9.0,craft,8.0,fine art,1.0
+Battambang,13.0957,103.2022,paint,10.0,contemporary,5.0,photograph,5.0
+Seremban,2.7259,101.9378,paint,14.0,street art,10.0,festival,4.0
+Kota Kinabalu,5.9844,116.0773,paint,2.0,visual art,1.0,sculptur,1.0
+Sandakan,5.8559,118.0722,visual art,0.0,fine art,0.0,illustrat,0.0
+Kuantan,3.8168,103.3317,paint,8.0,visual art,0.0,fine art,0.0
+Klang,3.0449,101.4456,fair,5.0,interactiv,4.0,digital,3.0
+Kota Bharu,6.1254,102.2405,street art,29.0,mural,25.0,paint,10.0
+Johor Bahru,1.4799,103.7643,design,6.0,festival,5.0,paint,3.0
+Kuala Lumpur,3.1319,101.6841,design,10.0,contemporary,7.0,paint,4.0
+Kampung,3.1293,101.5221,paint,21.0,design,8.0,architectur,7.0
+Vientiane,17.9757,102.6331,contemporary,16.0,craft,12.0,paint,11.0
+Dili,-8.5563,125.5798,arte,11.0,immers,6.0,draw,1.0
+Brunei,4.8923,114.9419,craft,10.0,festival,10.0,ethnic,3.0
+Singapore,1.3521,103.8198,digital,7.0,design,7.0,immers,6.0
+Pakse,15.1172,105.8159,ethnic,9.0,craft,1.0,architectur,1.0
+Taif,21.2841,40.4248,digital,10.0,craft,5.0,festival,5.0
+Dammam,26.4207,50.0888,illustrat,2.0,wood,1.0,visual art,0.0
+Jeddah,21.5292,39.1611,fine art,7.0,contemporary,5.0,photograph,5.0
+Riyadh,24.7136,46.6753,contemporary,15.0,modern,12.0,design,12.0
+Mecca,21.4241,39.8173,garden,9.0,modern,7.0,paint,5.0
+Maiduguri,11.8311,13.151,contemporary,8.0,fair,8.0,modern,5.0
+Aba,5.1216,7.3733,craft,10.0,immers,8.0,festival,6.0
+Jos,9.8965,8.8583,craft,6.0,modern,5.0,sculptur,5.0
+Benin,6.335,5.6037,architectur,15.0,design,10.0,contemporary,5.0
+Zaria,11.1247,7.7254,modern,27.0,paint,21.0,contemporary,12.0
+Ibadan,7.3775,3.947,paint,15.0,wood,6.0,sculptur,6.0
+Port Harcourt,4.8472,6.9746,paint,8.0,print,5.0,digital,3.0
+Kano,12.0022,8.592,paint,12.0,photograph,12.0,design,8.0
+Kaduna,10.5036,7.4337,craft,6.0,design,6.0,modern,4.0
+Lagos,6.5244,3.3792,contemporary,12.0,immers,5.0,paint,3.0
+Giza,30.0131,31.2089,design,14.0,sculptur,13.0,contemporary,9.0
+Cairo,30.0444,31.2357,contemporary,18.0,modern,10.0,photograph,6.0
+Luxor,25.6872,32.6396,paint,6.0,modern,6.0,arte,4.0
+Alexandria,31.2001,29.9187,paint,8.0,fine art,7.0,modern,7.0
+Port Said,31.2653,32.3019,garden,5.0,arte,5.0,modern,4.0
+Arusha,-3.3869,36.683,craft,5.0,paint,4.0,sculptur,4.0
+Zanzibar,-6.16394,39.19793,paint,27.0,visual art,3.0,handmade,3.0
+Salaam,-6.8165,39.2894,contemporary,12.0,modern,7.0,paint,6.0
+Mwanza,-2.5164,32.9175,ethnic,1.0,visual art,0.0,fine art,0.0
+Mbeya,-8.9094,33.4608,print,1.0,clay,1.0,visual art,0.0
+Lubumbashi,-11.6876,27.5026,contemporary,13.0,paint,10.0,festival,10.0
+Kisangani,0.5185,25.2008,architectur,4.0,immers,2.0,visual art,0.0
+Kinshasa,-4.3033,15.3105,paint,11.0,festival,8.0,photograph,6.0
+Mbuji-Mayi,-6.1307,23.5967,ethnic,5.0,immers,3.0,arte,3.0
+Kananga,-5.8975,22.4172,festival,2.0,craft,1.0,modern,1.0
+Durban,-29.8587,31.0218,craft,12.0,contemporary,10.0,paint,5.0
+Pretoria,-25.7566,28.1914,sculptur,10.0,contemporary,8.0,garden,5.0
+Cape Town,-33.9221,18.4231,contemporary,4.0,modern,2.0,digital,2.0
+Johannesburg,-26.2056,28.0337,photograph,20.0,contemporary,15.0,street art,15.0
+Soweto,-26.2485,27.854,sculptur,4.0,festival,3.0,paint,2.0
+Addis Ababa,9.0192,38.7525,paint,12.0,festival,12.0,contemporary,9.0
+Dire Dawa,9.6049,41.8585,architectur,15.0,craft,11.0,immers,10.0
+Mekele,13.4963,39.4743,architectur,19.0,immers,5.0,mural,4.0
+Bahir Dar,11.5876,37.3878,visual art,0.0,fine art,0.0,illustrat,0.0
+Gonder,12.603,37.4521,festival,5.0,craft,4.0,architectur,4.0
+Enugu,6.4483,7.5139,sculptur,13.0,visual art,4.0,garden,4.0
+Ilorin,8.5373,4.5444,design,14.0,architectur,8.0,contemporary,5.0
+Onitsha,6.1329,6.7924,immers,10.0,architectur,7.0,craft,4.0
+Abeokuta,7.1475,3.3619,festival,13.0,architectur,11.0,immers,10.0
+Abuja,9.0563,7.4985,contemporary,9.0,paint,6.0,craft,6.0
+Bloemfontein,-29.1129,26.2149,sculptur,5.0,garden,5.0,festival,4.0
+Vereeniging,-26.5814,27.9365,craft,6.0,fine art,2.0,paint,2.0
+Boksburg,-26.2499,28.2454,garden,13.0,wood,12.0,paint,7.0
+Newcastle,-27.7257,29.9576,craft,6.0,design,4.0,garden,3.0
+Welkom,-27.9868,26.7558,festival,1.0,visual art,0.0,fine art,0.0
+Oran,35.6987,-0.6349,architectur,10.0,arte,5.0,paint,4.0
+Algiers,36.7538,3.0588,contemporary,21.0,modern,20.0,paint,11.0
+Constantine,36.357,6.639,fine art,4.0,sculptur,3.0,garden,3.0
+Setif,36.1898,5.4108,festival,1.0,visual art,0.0,fine art,0.0
+Tembisa,-26.0129,28.2233,design,4.0,arte,4.0,craft,2.0
+Pietermaritzburg,-29.6015,30.379,paint,22.0,garden,21.0,design,9.0
+Port Elizabeth,-33.9137,25.5827,craft,12.0,paint,8.0,arte,5.0
+East London,-33.0003,27.8415,contemporary,20.0,modern,8.0,wood,8.0
+Benoni,-26.1507,28.3676,garden,8.0,fair,2.0,visual art,0.0
+Oujda-Angad,34.6233,-2.1058,craft,3.0,photograph,3.0,handmade,2.0
+Luanda,-8.8147,13.2302,contemporary,15.0,design,10.0,fair,10.0
+Huambo,-12.774,15.7469,paint,4.0,print,3.0,craft,3.0
+Meknes,33.8675,-5.5382,architectur,9.0,photograph,6.0,arte,5.0
+Tangier,35.7595,-5.834,design,14.0,craft,11.0,festival,11.0
+Kisumu,-0.0917,34.768,digital,5.0,craft,4.0,immers,4.0
+Mombasa,-4.0435,39.6682,craft,1.0,design,1.0,wood,1.0
+Eldoret,0.5143,35.2698,garden,4.0,modern,2.0,wood,2.0
+Nakuru,-0.3031,36.08,contemporary,7.0,craft,6.0,festival,6.0
+Nairobi,-1.2921,36.8219,contemporary,16.0,paint,6.0,sculptur,3.0
+Agadir,30.428,-9.5925,architectur,5.0,garden,5.0,festival,4.0
+Rabat,34.0084,-6.8539,modern,13.0,contemporary,12.0,paint,6.0
+Casablanca,33.5731,-7.5898,architectur,13.0,paint,6.0,arte,5.0
+Marrakech,31.6225,-7.9898,contemporary,7.0,photograph,5.0,design,4.0
+Fez,34.0181,-5.0078,architectur,25.0,design,4.0,wood,2.0
+Khartoum,15.5974,32.5356,paint,7.0,modern,7.0,contemporary,5.0
+Omdurman,15.6476,32.4807,arte,5.0,design,4.0,architectur,4.0
+Port Sudan,19.5903,37.1902,modern,2.0,design,1.0,visual art,0.0
+Nyala,12.0518,24.8805,photograph,5.0,festival,4.0,folk,3.0
+Kassala,15.4581,36.404,craft,4.0,garden,3.0,immers,3.0
+Antananarivo,-18.9185,47.5211,contemporary,10.0,modern,6.0,photograph,6.0
+Antsirabe,-19.873,47.0291,garden,4.0,draw,2.0,architectur,2.0
+Antsiranana,-12.3231,49.2943,garden,5.0,fair,3.0,paint,2.0
+Mahajanga,-15.718,46.3173,arte,4.0,immers,3.0,wood,2.0
+Toliara,-23.3516,43.6855,design,1.0,ethnic,1.0,photograph,1.0
+Jinja,0.4479,33.2026,garden,9.0,paint,8.0,print,6.0
+Gulu,2.7743,32.2882,paint,39.0,portrait,3.0,photograph,3.0
+Lira,2.2596,32.8903,craft,4.0,modern,3.0,arte,2.0
+Mbarara,-0.6121,30.6373,craft,8.0,sculptur,2.0,immers,2.0
+Kampala,0.3152,32.5816,craft,9.0,paint,8.0,sculptur,7.0
+Bobo-Dioulasso,11.1649,-4.3052,craft,6.0,festival,4.0,architectur,3.0
+Abidjan,5.3252,-4.0196,contemporary,24.0,modern,11.0,paint,8.0
+Ouagadougou,12.3714,-1.5197,sculptur,38.0,craft,8.0,festival,6.0
+Banfora,10.64,-4.7588,immers,8.0,craft,7.0,photograph,6.0
+Dedougou,12.4601,-3.4586,festival,3.0,architectur,2.0,craft,1.0
+Zinder,13.8018,8.9853,architectur,16.0,design,7.0,arte,7.0
+Niamey,13.5116,2.1254,modern,8.0,design,7.0,architectur,6.0
+Lilongwe,-13.9865,33.7681,paint,10.0,craft,9.0,immers,5.0
+Zomba,-15.3766,35.3357,photograph,5.0,craft,3.0,garden,2.0
+Agadez,16.9742,7.9865,craft,8.0,artisanal,5.0,design,4.0
+Lusaka,-15.4155,28.2773,paint,10.0,modern,10.0,craft,9.0
+Dakar,14.7167,-17.4677,paint,21.0,sculptur,12.0,design,11.0
+Thies,14.791,-16.9359,design,6.0,mural,2.0,draw,1.0
+Touba,8.2842,-7.6819,contemporary,3.0,festival,2.0,modern,1.0
+Ndola,-12.9906,28.6498,visual art,0.0,fine art,0.0,illustrat,0.0
+Bamenda,5.9631,10.1591,design,3.0,paint,1.0,craft,1.0
+Bafoussam,5.4816,10.4271,craft,11.0,handmade,1.0,modern,1.0
+Garoua,9.3226,13.3934,craft,17.0,immers,13.0,architectur,9.0
+Douala,4.0511,9.7679,contemporary,9.0,print,7.0,festival,3.0
+Yaounde,3.8617,11.5202,contemporary,10.0,paint,9.0,visual art,7.0
+Nampula,-15.1266,39.2687,immers,3.0,architectur,2.0,garden,2.0
+Beira,-19.8316,34.837,architectur,6.0,craft,2.0,photograph,1.0
+Maputo,-25.9692,32.5732,print,6.0,paint,4.0,digital,4.0
+Matola,-25.9241,32.4657,feira,2.0,handmade,1.0,craft,1.0
+Nacala,-14.5656,40.6854,craft,9.0,modern,8.0,architectur,8.0
+Bamako,12.6392,-8.0025,contemporary,8.0,modern,8.0,paint,7.0
+Nzerekore,7.7478,-8.8253,craft,15.0,festival,12.0,ethnic,10.0
+Conakry,9.5091,-13.7119,architectur,21.0,photograph,11.0,sculptur,10.0
+Koutiala,12.3774,-5.4725,architectur,15.0,festival,15.0,immers,15.0
+Kindia,10.0407,-12.863,festival,2.0,immers,2.0,craft,1.0
+Sikasso,11.3154,-5.6675,craft,2.0,ethnic,2.0,immers,2.0
+Wau,7.7092,27.9835,festival,4.0,ethnic,3.0,craft,2.0
+Sarh,9.1412,18.3683,immers,11.0,architectur,7.0,craft,4.0
+N'Djamena,12.1191,15.0503,craft,12.0,immers,10.0,modern,8.0
+Moundou,8.5915,16.0758,festival,26.0,craft,15.0,architectur,8.0
+Juba,4.8539,31.5825,paint,2.0,mural,2.0,visual art,0.0
+Malakal,9.528,31.6682,fair,2.0,glass,1.0,multimedia,1.0
+Abeche,13.8359,20.8434,garden,3.0,festival,3.0,architectur,2.0
+Tema,5.7348,0.0302,festival,14.0,design,5.0,paint,1.0
+Accra,5.5593,-0.1974,contemporary,20.0,arte,18.0,paint,12.0
+Kumasi,6.6666,-1.6163,craft,17.0,paint,7.0,modern,7.0
+Takoradi,4.9016,-1.7831,digital,8.0,festival,8.0,sculptur,3.0
+Tamale,9.4034,-0.8424,contemporary,14.0,clay,7.0,festival,6.0
+Lobito,-12.3757,13.561,folk,3.0,draw,1.0,glass,1.0
+Muyinga,-2.8461,30.3395,architectur,67.0,design,34.0,contemporary,15.0
+Ruyigi,-3.4761,30.248,garden,1.0,fair,1.0,visual art,0.0
+Gitega,-3.4273,29.9246,modern,6.0,festival,5.0,paint,3.0
+Bujumbura,-3.3614,29.3599,craft,6.0,print,5.0,modern,5.0
+Gitarama,-2.0843,29.7514,craft,2.0,handmade,1.0,design,1.0
+Musanze,-1.5007,29.6325,arte,3.0,design,2.0,garden,2.0
+Butare,-2.6005,29.7419,photograph,7.0,ethnic,5.0,arte,3.0
+Kigali,-1.9441,30.0619,modern,12.0,photograph,12.0,paint,11.0
+Mogadishu,2.0371,45.3379,architectur,15.0,paint,11.0,modern,9.0
+Berbera,10.4348,45.014,paint,14.0,modern,5.0,photograph,5.0
+Djibouti,11.8251,42.5903,paint,23.0,architectur,5.0,photograph,4.0
+Eswatini,-26.5225,31.4659,contemporary,8.0,design,6.0,paint,2.0
+Cotonou,6.3562,2.4278,contemporary,12.0,craft,8.0,design,6.0
+Djougou,9.7081,1.6664,festival,20.0,craft,8.0,fair,3.0
+Abomey-Calavi,6.4503,2.3468,festival,5.0,craft,3.0,architectur,2.0
+Porto-Novo,6.4786,2.6203,modern,12.0,paint,9.0,sculptur,9.0
+Mzuzu,-11.439,34.0084,festival,6.0,craft,2.0,contemporary,1.0
+Kasungu,-13.0357,33.472,immers,11.0,craft,3.0,paint,2.0
+Bulawayo,-20.1457,28.5873,modern,10.0,paint,8.0,sculptur,7.0
+Harare,-17.8263,31.0504,contemporary,16.0,paint,8.0,arte,5.0
+Mutare,-18.9758,32.6691,paint,3.0,arte,2.0,visual art,1.0
+Chitungwiza,-18.0198,31.0679,sculptur,2.0,visual art,1.0,fine art,0.0
+Nouakchott,18.0735,-15.9582,paint,5.0,modern,5.0,contemporary,4.0
+Bimbo,4.3227,18.5234,immers,21.0,architectur,17.0,garden,13.0
+Gbarnga,7.0024,-9.4728,contemporary,1.0,design,1.0,architectur,1.0
+Monrovia,6.3156,-10.8074,modern,6.0,paint,3.0,contemporary,3.0
+Windhoek,-22.5649,17.0842,digital,9.0,contemporary,8.0,print,5.0
+Libreville,0.4078,9.4403,immers,13.0,paint,9.0,modern,8.0
+Brazzaville,-4.2744,15.2813,paint,17.0,modern,5.0,contemporary,4.0
+Asmara,15.3317,38.93,paint,6.0,modern,4.0,arte,4.0
+Serekunda,13.437,-16.6812,garden,3.0,festival,3.0,interactiv,2.0
+Tunis,36.8065,10.1815,contemporary,37.0,modern,13.0,paint,6.0
+Lome,6.1296,1.2197,festival,6.0,photograph,5.0,paint,2.0
+Sfax,34.7398,10.76,architectur,22.0,immers,9.0,craft,6.0
+Sokode,8.978,1.1449,visual art,0.0,fine art,0.0,illustrat,0.0
+Sousse,35.8245,10.6346,modern,7.0,arte,4.0,paint,3.0
+Canberra,-35.2802,149.131,glass,27.0,portrait,15.0,contemporary,9.0
+Gold Coast,-28.0167,153.4,contemporary,12.0,paint,7.0,modern,5.0
+Sydney,-33.8688,151.2093,contemporary,17.0,modern,10.0,paint,5.0
+Brisbane,-27.4705,153.026,contemporary,18.0,modern,16.0,visual art,5.0
+Perth,-31.9514,115.8617,contemporary,15.0,festival,7.0,paint,6.0
+Melbourne,-37.8136,144.9631,contemporary,38.0,photograph,17.0,sculptur,12.0
+Adelaide,-34.9285,138.6007,festival,11.0,contemporary,9.0,design,9.0
+Port Moresby,-9.479,147.1494,craft,9.0,contemporary,7.0,festival,3.0
+Lae,-6.7155,146.9999,garden,23.0,immers,15.0,craft,8.0
+Wellington,-41.2924,174.7787,contemporary,20.0,craft,5.0,design,5.0
+Auckland,-36.8509,174.7645,contemporary,22.0,sculptur,8.0,paint,7.0
