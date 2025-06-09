@@ -45,6 +45,19 @@ document.addEventListener("DOMContentLoaded", function () {
       skipEmptyLines: true,
       complete: function (results) {
         cities = results.data;
+        // 이스라엘 추가
+        cities.push({
+    name: "Israel",
+    latitude: 31.0461,      // 이스라엘 중심 위도
+    longitude: 34.8516,     // 이스라엘 중심 경도
+    keywords: ["photography", "sculpture", "installation"],  // 키워드 3개
+    keyword_1: "photography",
+    keyword_2: "sculpture",
+    keyword_3: "installation",
+    count_1: "1",
+    count_2: "1",
+    count_3: "1"
+});
         cities.forEach(function (city) {
           var lat = parseFloat(city.latitude);
           var lng = parseFloat(city.longitude);
