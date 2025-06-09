@@ -174,9 +174,12 @@ h1, p {
   margin: 10px 0;
 }
 
-/* Remove Leaflet attribution flag */
-.leaflet-control-attribution a[href*="leaflet"]::before {
+#map .leaflet-control-attribution {
+    background-image: none !important;
+}
+#map .leaflet-control-attribution a[href*="leaflet"]::before {
     display: none !important;
     background: none !important;
     content: none !important;
 }
+
