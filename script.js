@@ -141,3 +141,10 @@ document.addEventListener("DOMContentLoaded", function () {
   // 도시 데이터 로드
   loadCityData();
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    const flag = document.querySelector('.leaflet-control-attribution .leaflet-attribution-flag');
+    if (flag) {
+        flag.remove();
+    }
+});
