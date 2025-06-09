@@ -173,3 +173,12 @@ h1, p {
   font-size: 20px;
   margin: 10px 0;
 }
+
+/* Remove Leaflet attribution flag */
+.leaflet-control-attribution {
+    background-image: none !important;
+}
+.leaflet-control-attribution a::before {
+    display: none !important;
+    background: none !important;
+}
