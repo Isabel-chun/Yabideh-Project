@@ -175,10 +175,8 @@ h1, p {
 }
 
 /* Remove Leaflet attribution flag */
-.leaflet-control-attribution {
-    background-image: none !important;
-}
-.leaflet-control-attribution a::before {
+.leaflet-control-attribution a[href*="leaflet"]::before {
     display: none !important;
     background: none !important;
+    content: none !important;
 }
