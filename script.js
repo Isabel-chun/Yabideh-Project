@@ -111,28 +111,23 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   
     // Find region for Keyword Region Info
-    var keywordRegions = {};
-    selectedKeywords.forEach(function (keyword) {
-      var maxCount = 0;
-      var topCity = "None";
-  
-      cities.forEach(function (city) {
-        if (city.keyword_1 === keyword && parseFloat(city.count_1) > maxCount) {
-          maxCount = parseFloat(city.count_1);
-          topCity = city.name;
-        }
-        if (city.keyword_2 === keyword && parseFloat(city.count_2) > maxCount) {
-          maxCount = parseFloat(city.count_2);
-          topCity = city.name;
-        }
-        if (city.keyword_3 === keyword && parseFloat(city.count_3) > maxCount) {
-          maxCount = parseFloat(city.count_3);
-          topCity = city.name;
-        }
-      });
-  
-      keywordRegions[keyword] = topCity;
-    });
+   var keywordRegions = {};
+selectedKeywords.forEach(function (keyword) {
+  var matchingCities = [];
+
+  cities.forEach(function (city) {
+    if (
+      (city.keyword_1 && city.keyword_1.toLowerCase() === keyword.toLowerCase()) ||
+      (city.keyword_2 && city.keyword_2.toLowerCase() === keyword.toLowerCase()) ||
+      (city.keyword_3 && city.keyword_3.toLowerCase() === keyword.toLowerCase())
+    ) {
+      matchingCities.push(city.name);
+    }
+  });
+
+  keywordRegions[keyword] = matchingCities.length > 0 ? matchingCities.join(", ") : "None";
+});
+
   
     // Update Keyword Region Info
     var infoHtml = "<strong>Keyword Region Info</strong><br>";
