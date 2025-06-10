@@ -49,10 +49,10 @@ document.addEventListener("DOMContentLoaded", function () {
     name: "Israel",
     latitude: 31.0461,      // 이스라엘 중심 위도
     longitude: 34.8516,     // 이스라엘 중심 경도
-    keywords: ["Photograph", "Sculptur", "Contemporary"],  // 키워드 3개
-    keyword_1: "Photograph",
-    keyword_2: "Sculptur",
-    keyword_3: "installation",
+    keywords: ["photograph", "sculptur", "contemporary"],  // 키워드 3개
+    keyword_1: "photograph",
+    keyword_2: "sculptur",
+    keyword_3: "contemporary",
     count_1: "1",
     count_2: "1",
     count_3: "1"
